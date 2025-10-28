@@ -1,145 +1,148 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 21.10.2025 / Golden State Warriors vs. Los Angeles Lakers
+#EXTINF:-1 group-title="Octubre 2025", 21.10.2025 / Golden State Warriors vs. Los Angeles Lakers
 acestream://c8dafefa0f5c5c90eac27262ff5cb3757bf9c3d6
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 21.10.2025 / Houston Rockets vs. Oklahoma City Thunder
+#EXTINF:-1 group-title="Octubre 2025", 21.10.2025 / Houston Rockets vs. Oklahoma City Thunder
 acestream://b90041642bc148294bd42519ec1dc95c134b6850
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Los Angeles Clippers @ Utah Jazz
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Los Angeles Clippers @ Utah Jazz
 acestream://b50438d1a6e6481244d3c8a69f71e4a19ac22478
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Sacramento Kings @ Phoenix Suns
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Sacramento Kings @ Phoenix Suns
 acestream://b867b19d0abbe274ac8a808b864f972416b2fd51
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / San Antonio Spurs @ Dallas Mavericks
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / San Antonio Spurs @ Dallas Mavericks
 acestream://82e484beb1cf1e3c25ab98ec3597cf423cb4c7de
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Cleveland Cavaliers @ New York Knicks
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Cleveland Cavaliers @ New York Knicks
 acestream://ad6c686831304f2ef62b5893f48ed633ed1457a7
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Philadelphia 76ers @ Boston Celtics
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Philadelphia 76ers @ Boston Celtics
 acestream://bd5063467c5bbebfa8de6888b9cfba8eefe715e3
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Detroit Pistons @ Chicago Bulls
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Detroit Pistons @ Chicago Bulls
 acestream://85c16b260b9746c85278b619b5750d1cd486e1aa
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Minnesota Timberwolves @ Portland Trail Blazers
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Minnesota Timberwolves @ Portland Trail Blazers
 acestream://2afc28427a774b16d1a3c0d3eb806572cd909626
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Washington Wizards @ Milwaukee Bucks
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Washington Wizards @ Milwaukee Bucks
 acestream://68de94ee44421f4c2aa2c6b98fb01f4982099daf
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Miami Heat @ Orlando Magic
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Miami Heat @ Orlando Magic
 acestream://119d0b4855a087f4ec29cf600f07e63d3cf92b93
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Toronto Raptors @ Atlanta Hawks
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Toronto Raptors @ Atlanta Hawks
 acestream://04410928d3bbd8b206d101e897d35d7418c4b61b
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / Brooklyn Nets @ Charlotte Hornets
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / Brooklyn Nets @ Charlotte Hornets
 acestream://dc64e120361ac28a772a3bd7bba82dbbcc39eea7
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 22.10.2025 / New Orleans Pelicans @ Memphis Grizzlies
+#EXTINF:-1 group-title="Octubre 2025", 22.10.2025 / New Orleans Pelicans @ Memphis Grizzlies
 acestream://b63ef77695e624c1125a24707ea6b62256a35a06
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 23.10.2025 / Oklahoma City Thunder @ Indiana Pacers
+#EXTINF:-1 group-title="Octubre 2025", 23.10.2025 / Oklahoma City Thunder @ Indiana Pacers
 acestream://11607f9af9d357f6373c2fde2468fafb3b6953ec
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 23.10.2025 / Denver Nuggets @ Golden State Warriors
+#EXTINF:-1 group-title="Octubre 2025", 23.10.2025 / Denver Nuggets @ Golden State Warriors
 acestream://f415cc04a09d7d2edbac73c68da8afa847c1b1e9
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 24.10.2025 / Cleveland Cavaliers @ Brooklyn Nets
+#EXTINF:-1 group-title="Octubre 2025", 24.10.2025 / Cleveland Cavaliers @ Brooklyn Nets
 acestream://584daa671bea067c829f646e4ac566f1a3f85a31
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 24.10.2025 / Boston Celtics @ New York Knicks
+#EXTINF:-1 group-title="Octubre 2025", 24.10.2025 / Boston Celtics @ New York Knicks
 acestream://74ce0a3584d2cedf8ee8d6363dcccca343c93ef6
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 24.10.2025 / San Antonio Spurs @ New Orleans Pelicans
+#EXTINF:-1 group-title="Octubre 2025", 24.10.2025 / San Antonio Spurs @ New Orleans Pelicans
 acestream://b984d89f28f2d405324bd8fd07dd59c2e5027fa1
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 24.10.2025 / Detroit Pistons @ Houston Rockets
+#EXTINF:-1 group-title="Octubre 2025", 24.10.2025 / Detroit Pistons @ Houston Rockets
 acestream://91c939b5aab05f258d4a57814bb2dcaf08c62096
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 24.10.2025 / Milwaukee Bucks @ Toronto Raptors
+#EXTINF:-1 group-title="Octubre 2025", 24.10.2025 / Milwaukee Bucks @ Toronto Raptors
 acestream://973d1d72d3a1461757e2855fa2822bf485efddf0
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 24.10.2025 / Atlanta Hawks @ Orlando Magic
+#EXTINF:-1 group-title="Octubre 2025", 24.10.2025 / Atlanta Hawks @ Orlando Magic
 acestream://c45a0d4b80ca9ade6002aab2c1882cd53f840461
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 24.10.2025 / Miami Heat @ Memphis Grizzlies
+#EXTINF:-1 group-title="Octubre 2025", 24.10.2025 / Miami Heat @ Memphis Grizzlies
 acestream://931b0e45b4bf224aea8bd5214e9d8f57e5383106
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 25.10.2025 / Charlotte Hornets @ Philadelphia 76ers
+#EXTINF:-1 group-title="Octubre 2025", 25.10.2025 / Charlotte Hornets @ Philadelphia 76ers
 acestream://9809d7a690694d2e39ba2583a3f66a6c5339b5ca
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 25.10.2025 / Indiana Pacers @ Memphis Grizzlies
+#EXTINF:-1 group-title="Octubre 2025", 25.10.2025 / Indiana Pacers @ Memphis Grizzlies
 acestream://668ac79835ac6b29b5a0dba656394fcfffb7f962
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 25.10.2025 / Chicago Bulls @ Orlando Magic
+#EXTINF:-1 group-title="Octubre 2025", 25.10.2025 / Chicago Bulls @ Orlando Magic
 acestream://5dfc77d7edf6fff275ba653876466b1be9e24924
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 25.10.2025 / Phoenix Suns @ Denver Nuggets
+#EXTINF:-1 group-title="Octubre 2025", 25.10.2025 / Phoenix Suns @ Denver Nuggets
 acestream://2b12762004c0dfe678d5b99c3c5a26bb1b4a205d
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 25.10.2025 / Oklahoma City Thunder @ Atlanta Hawks
+#EXTINF:-1 group-title="Octubre 2025", 25.10.2025 / Oklahoma City Thunder @ Atlanta Hawks
 acestream://3a0502d136c69418aaafea201da08c14e79f1297
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / Portland Trail Blazers @ Los Angeles Clippers
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / Portland Trail Blazers @ Los Angeles Clippers
 acestream://c6242e25cc6b952f7b17947dc505b7ca095593fd
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / Toronto Raptors @ Dallas Mavericks
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / Toronto Raptors @ Dallas Mavericks
 acestream://87f2ce3dcd5e059ebff699fa42d1795467f2dec4
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / Los Angeles Lakers @ Sacramento Kings
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / Los Angeles Lakers @ Sacramento Kings
 acestream://401a81f260fe5d16e4f5b48e35394534a6d479eb
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / New York Knicks @ Miami Heat
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / New York Knicks @ Miami Heat
 acestream://dfccb0aa39b09dc59a7abbd7e65031f4fa7fda96
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / Indiana Pacers @ Minnesota Timberwolves
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / Indiana Pacers @ Minnesota Timberwolves
 acestream://f583ad93950ff4a4f44b4800bb1828f02b3a4fd6
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / Milwaukee Bucks @ Cleveland Cavaliers
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / Milwaukee Bucks @ Cleveland Cavaliers
 acestream://ff69cff24c796fdf8f105a027417a5a053ffa887
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / Boston Celtics @ Detroit Pistons
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / Boston Celtics @ Detroit Pistons
 acestream://93a80f8344f27554239508ab0978bfc6c1ffabd7
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / Charlotte Hornets @ Washington Wizards
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / Charlotte Hornets @ Washington Wizards
 acestream://2b669745b2795400add61c6f80e6b5fbb2cd5222
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 26.10.2025 / Brooklyn Nets @ San Antonio Spurs
+#EXTINF:-1 group-title="Octubre 2025", 26.10.2025 / Brooklyn Nets @ San Antonio Spurs
 acestream://4e547c250a7e26d294b7dbe16c3d30778776ed51
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Boston Celtics @ New Orleans Pelicans
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Boston Celtics @ New Orleans Pelicans
 acestream://b90e41fd39dd09be22a2ccb43004d54ce37f187c
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Denver Nuggets @ Minnesota Timberwolves
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Denver Nuggets @ Minnesota Timberwolves
 acestream://4c0219090bb554f2cdd3d4cbaabf8f028d9298de
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Portland Trail Blazers @ Los Angeles Lakers
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Portland Trail Blazers @ Los Angeles Lakers
 acestream://24d300d235043ae4242a3e3d809cd7836515f7f3
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Memphis Grizzlies @ Golden State Warriors
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Memphis Grizzlies @ Golden State Warriors
 acestream://3ac53a01a49b671b8b088d4208545d700d17ef8f
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Toronto Raptors @ San Antonio Spurs
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Toronto Raptors @ San Antonio Spurs
 acestream://2b1d938f5a7be9a705755a5a50aab0bb24196554
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Oklahoma City Thunder @ Dallas Mavericks
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Oklahoma City Thunder @ Dallas Mavericks
 acestream://90b74514e59def612307116983372134a12b2ce0
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Phoenix Suns @ Utah Jazz
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Phoenix Suns @ Utah Jazz
 acestream://dcf858887ac50521ac690e11b9a1a14c74e6e650
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Orlando Magic @ Philadelphia 76ers
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Orlando Magic @ Philadelphia 76ers
 acestream://6a8e41978a3c0089ac4c6df7ee797310c04e24f6
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Brooklyn Nets @ Houston Rockets
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Brooklyn Nets @ Houston Rockets
 acestream://602f8b1c3e6a12974e5a167ec33cce24eaed4ad9
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Atlanta Hawks @ Chicago Bulls
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Atlanta Hawks @ Chicago Bulls
 acestream://4b4292d68067df729eb69e89fe4fc459690c5a4d
 
-#EXTINF:-1 group-title="NBA Octubre 2025", 27.10.2025 / Cleveland Cavaliers @ Detroit Pistons
+#EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Cleveland Cavaliers @ Detroit Pistons
+acestream://fb5d365561f2af18001df961800c7430345134de
+
+#EXTINF:-1 group-title="Noviembre 2025", 27.10.2025 / Cleveland Cavaliers @ Detroit Pistons
 acestream://fb5d365561f2af18001df961800c7430345134de

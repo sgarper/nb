@@ -144,5 +144,14 @@ acestream://4b4292d68067df729eb69e89fe4fc459690c5a4d
 #EXTINF:-1 group-title="Octubre 2025", 27.10.2025 / Cleveland Cavaliers @ Detroit Pistons
 acestream://fb5d365561f2af18001df961800c7430345134de
 
-#EXTINF:-1 group-title="Noviembre 2025", 27.10.2025 / Cleveland Cavaliers @ Detroit Pistons
-acestream://fb5d365561f2af18001df961800c7430345134de
+#EXTINF:-1 group-title="Noviembre 2025", New York Knicks @ Milwaukee Bucks hash
+012b2fbaec9059bfce7e5ab00c9df774d152a756
+
+#EXTINF:-1 group-title="Noviembre 2025", New York Knicks @ Milwaukee Bucks magnet
+magnet:?xt=urn:btih:012b2fbaec9059bfce7e5ab00c9df774d152a756&dn=NBA-2025-10-28_NYK%40MIL_NBC.mkv&tr=https%3A%2F%2F720pier.ru%2Ftracker%2Fannounce.php%3Fpasskey%3Doz05dhz6gqqxnzv6snj45g7h82y7fd76
+
+#EXTINF:-1 group-title="Noviembre 2025", New York Knicks @ Milwaukee Bucks vlc
+http://vlc.shickat.me:8000/pid/012b2fbaec9059bfce7e5ab00c9df774d152a756/stream.mp4
+
+
+

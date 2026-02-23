@@ -1,6 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="La liga",Pimple TV 2 (Rusia)
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="" group-title="La liga",Eleven Sports 2 [BE]
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
@@ -11,8 +10,8 @@ acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-logo="" group-title="La liga",Pimple TV (Rusia)
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
 
-#EXTINF:-1 tvg-logo="" group-title="La liga",Setanta Sports 2 (Rusia)
-acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-logo="" group-title="La liga",Матч! Футбол 2 ( original ) (RU)
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 
 #EXTINF:-1 tvg-logo="" group-title="",Ziggo Sports
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058

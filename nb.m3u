@@ -99,11 +99,31 @@ acestream://0891665b3d5b40b58129a021314286b96e1910c6
 acestream://aca05dc506242324c1727525d0535ceda24f8dea
 
 
-#EXTINF:-1 tvg-logo="" group-title="",
-acestream://
+#EXTINF:-1 tvg-logo="" group-title="Champions",1
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 
-#EXTINF:-1 tvg-logo="" group-title="",
-acestream://
+#EXTINF:-1 tvg-logo="" group-title="Champions",2
+acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+
+#EXTINF:-1 tvg-logo="" group-title="Champions",3
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 tvg-logo="" group-title="Champions",4
+acestream://65d49691687add6a93692a757817bac4f204ed1f
+
+#EXTINF:-1 tvg-logo="" group-title="Champions",5
+acestream://5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="" group-title="Champions",6
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+
+#EXTINF:-1 tvg-logo="" group-title="Champions",
+
+
+#EXTINF:-1 tvg-logo="" group-title="Champions",
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="",
 acestream://

@@ -1,54 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="Champions",Ruso
+#EXTINF:-1 tvg-logo="https://betonuz.com/wp-content/uploads/2020/09/asdasdasd-1.jpg" group-title="",Pimple TV (Champions)
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
-#EXTINF:-1 tvg-logo="" group-title="Champions",Ruso
+#EXTINF:-1 tvg-logo="https://karate.ru/media/photos/2025/04/09/pimpletv-913727_349620.jpeg" group-title="",Acetop (Champions)
 acestream://65d49691687add6a93692a757817bac4f204ed1f
 
-#EXTINF:-1 tvg-logo="" group-title="Champions",Ziggo Sports (Paises Bajos)
+#EXTINF:-1 tvg-logo="https://www.youfone.nl/sites/default/files/ziggo_sport_totaal-logo_0.webp" group-title="",Ziggo Sports (Champions)
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 
-#EXTINF:-1 tvg-logo="" group-title="Champions",Dazn Eleven (Portugal)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rZH68dbTd_OT6TdkN_kqgqPM_DyHmbIMdA&s" group-title="",Dazn Eleven (Champions)
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-
-#EXTINF:-1 tvg-logo="" group-title="Champions",Liga de campeones 
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-
-#EXTINF:-1 ,Atlético Madrid vs. Club Brugge (Spanish)
-acestream://b1b57bc4fd8bc44370721d9ab1727cf0e4b13f2b
-#EXTINF:-1 ,Atlético Madrid vs. Club Brugge (Portuguese)
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 ,Atlético Madrid vs. Club Brugge (Portuguese)
-acestream://a29751026cb067d3b4f08ac955fb52f8536810ef
-#EXTINF:-1 ,Atlético Madrid vs. Club Brugge (English)
-acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 ,Atlético Madrid vs. Club Brugge (English)
-acestream://116caad91d81de9df5bc8639df1ec04128bd760b
-#EXTINF:-1 ,Atlético Madrid vs. Club Brugge (Russian)
-acestream://44e82cfd3b81a157ebf9dc20eaa11a4a0fc96af8
-#EXTINF:-1 ,Atlético Madrid vs. Club Brugge (Russian)
-acestream://a3b77e2e8e4cffcbc6d5f75d70b9c35b9c54d592
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

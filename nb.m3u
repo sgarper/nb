@@ -4,11 +4,11 @@
 #EXTINF:-1 tvg-logo="https://betonuz.com/wp-content/uploads/2020/09/asdasdasd-1.jpg" group-title="",Pimple TV (Champions)
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
-#EXTINF:-1 tvg-logo="https://karate.ru/media/photos/2025/04/09/pimpletv-913727_349620.jpeg" group-title="",Acetop (Champions)
-acestream://65d49691687add6a93692a757817bac4f204ed1f
-
 #EXTINF:-1 tvg-logo="https://www.youfone.nl/sites/default/files/ziggo_sport_totaal-logo_0.webp" group-title="",Ziggo Sports (Champions)
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+
+#EXTINF:-1 tvg-logo="https://karate.ru/media/photos/2025/04/09/pimpletv-913727_349620.jpeg" group-title="",Acetop (Champions)
+acestream://65d49691687add6a93692a757817bac4f204ed1f
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rZH68dbTd_OT6TdkN_kqgqPM_DyHmbIMdA&s" group-title="",Dazn Eleven (Champions)
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b

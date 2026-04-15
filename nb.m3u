@@ -35,9 +35,6 @@ acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-logo="" group-title="",Ziggo Sports
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 
-#EXTINF:-1 tvg-logo="" group-title="La liga",Premier Sports 1
-acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-
 #EXTINF:-1 tvg-logo="" group-title="",Nova Sport 4
 acestream://1408de419b1abeac470094e284a07c3512342d69
 
@@ -53,29 +50,7 @@ acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-logo="" group-title="",Eleven Sports 2 HD [PL]
 acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
 
-#EXTINF:-1 tvg-logo="" group-title="Serie A",1
-acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
-#EXTINF:-1 tvg-logo="" group-title="Serie A",2
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-
-#EXTINF:-1 tvg-logo="" group-title="Serie A",3
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
-#EXTINF:-1 tvg-logo="" group-title="",Kosovo - Turquia
-acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-
-#EXTINF:-1 tvg-logo="" group-title="Premier League",1
-acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-
-#EXTINF:-1 tvg-logo="" group-title="Premier League",2
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-
-#EXTINF:-1 tvg-logo="" group-title="Ligue 1",1
-acestream://0891665b3d5b40b58129a021314286b96e1910c6
-
-#EXTINF:-1 tvg-logo="" group-title="Ligue 1",2
-acestream://aca05dc506242324c1727525d0535ceda24f8dea
 
 
 

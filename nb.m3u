@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="NBA",1
-magnet:?xt=urn:btih:996b4076131f26172e5a871666f0112d6d9fa198&dn=NBA-2026-04-18_TOR%40CLE.720pier.ru.mkv&tr=https%3A%2F%2F720pier.ru%2Ftracker%2Fannounce.php%3Fpasskey%3Doz05dhz6gqqxnzv6snj45g7h82y7fd76
+#EXTINF:-1 tvg-logo="" group-title="NBA",prueba 1
+acestream://3Doz05dhz6gqqxnzv6snj45g7h82y7fd76
+#EXTINF:-1 tvg-logo="" group-title="NBA",prueba 2 (acestream:// + hash)
+acestream://eff77fe4a7e90f6a9858291e20d005a21648bbf1
 
 
 

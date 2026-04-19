@@ -1,9 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="NBA",prueba 1
-acestream://3Doz05dhz6gqqxnzv6snj45g7h82y7fd76
-#EXTINF:-1 tvg-logo="" group-title="NBA",prueba 2 (acestream:// + hash)
-acestream://eff77fe4a7e90f6a9858291e20d005a21648bbf1
+#EXTINF:-1 tvg-logo="" group-title="",psg vs lyon
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-logo="" group-title="",psg vs lyon
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-logo="" group-title="",psg vs lyon
+acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 
 
 

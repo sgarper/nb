@@ -1,83 +1,74 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/jdemovic/iptv-epg/refs/heads/main/epg.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9DaGljYWdv&date=20260824&channel_id=392147,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=5828,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=406806,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=562308,https://epg.pw/api/epg.xml?lang=en&date=20260822&channel_id=6150,https://only4.tv/epg/epg.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9TaGFuZ2hhaQ%3D%3D&date=20260825&channel_id=6152,https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Networks/pluto.tv.E.channels.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=6958,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib25nX0tvbmc%3D&date=20260825&channel_id=465329,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406566,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406588,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=409254,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=464949,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=465329,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6958,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=5828,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=7612,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392147,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392164,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219100,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219104,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406806,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6152,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6150" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib25nX0tvbmc%3D&date=20260825&channel_id=465329,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="",M+ LaLiga
+#EXTINF:-1 tvg-id="406566" tvg-name="M+ LALIGA [ES]" group-title="🇪🇸 España",M+ LaLiga
 https://cdx-08192.website/embed/movistarlaliga-es
- 
-#EXTINF:-1 tvg-logo="" group-title="",DAZN LaLiga
+
+#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" group-title="🇪🇸 España",DAZN LaLiga
 https://cdx-08192.website/play/daznlaliga-es
- 
-#EXTINF:-1 tvg-logo="" group-title="",ESPN Deportes
+
+#EXTINF:-1 tvg-id="464949" tvg-name="ESPN Deportes HD" group-title="🇺🇸 USA",ESPN Deportes
 https://cdx-08192.website/play/espndeportes-usa
- 
-#EXTINF:-1 tvg-logo="" group-title="",LaLiga TV Hypermotion
+
+#EXTINF:-1 tvg-id="409254" tvg-name="LaLiga TV Hypermotion [ES]" group-title="🇪🇸 España",LaLiga TV Hypermotion
 https://cdx-08192.website/play/Liga1
 
-#EXTINF:-1 tvg-logo="" group-title="",UNIVERSO HD
+#EXTINF:-1 tvg-id="465329" tvg-name="UNIVERSO HD" group-title="🇺🇸 USA",UNIVERSO HD
 https://cdx-08192.website/embed/universo-usa
- 
-#EXTINF:-1 tvg-logo="" group-title="",Sky Sports Premier League HD
+
+#EXTINF:-1 tvg-id="6958" tvg-name="Sky Sports Premier League HD" group-title="🇬🇧 Reino Unido",Sky Sports Premier League HD
 https://cdx-08192.website/embed/skysport8-nz
- 
-#EXTINF:-1 tvg-logo="" group-title="",CBS Sports Golazo Network
+
+#EXTINF:-1 group-title="🇺🇸 USA",CBS Sports Golazo Network
 https://cdx-08192.website/embed/cbssportsgolazo-usa
 
-#EXTINF:-1 tvg-logo="" group-title="",CANAL+ Sport 1 PL
+#EXTINF:-1 tvg-id="5828" tvg-name="CANAL+ Sport 1 PL" group-title="🇵🇱 Polonia",CANAL+ Sport 1 PL
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
-#EXTINF:-1 tvg-logo="" group-title="",Nova Sport 5
-acestream://6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
-
-#EXTINF:-1 tvg-logo="" group-title="",Nova Sport 6
-acestream://fd572fdeeaaff430ab2775e3bae1620295660ebd
-
-#EXTINF:-1 tvg-logo="" group-title="",Premier Sports 1 HD
-acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-
-#EXTINF:-1 tvg-logo="" group-title="",Premier Sports 2 HD
-acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-
-#EXTINF:-1 tvg-logo="" group-title="",Матч! Футбол 1
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
-#EXTINF:-1 tvg-logo="https://www.youfone.nl/sites/default/files/ziggo_sport_totaal-logo_0.webp" group-title="",Ziggo Sport 1 [NL]
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rZH68dbTd_OT6TdkN_kqgqPM_DyHmbIMdA&s" group-title="",Dazn Eleven
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-
-#EXTINF:-1 tvg-logo="" group-title="",Eleven Sports 2 [BE]
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-
-#EXTINF:-1 tvg-logo="" group-title="",Canal + Sport
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-
-#EXTINF:-1 tvg-logo="" group-title="",Pimple TV
-acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
-
-#EXTINF:-1 tvg-logo="" group-title="",Nova Sport 4
+#EXTINF:-1 tvg-id="7612" tvg-name="Nova Sport 4" group-title="🇨🇿 Chequia",Nova Sport 4
 acestream://1408de419b1abeac470094e284a07c3512342d69
 
-#EXTINF:-1 tvg-logo="" group-title="",Eleven Sports 1 [BE]
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="392147" tvg-name="Nova Sport 5" group-title="🇨🇿 Chequia",Nova Sport 5
+acestream://6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
 
-#EXTINF:-1 tvg-logo="" group-title="",Eleven Sports 1 4k [PL]
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-id="392164" tvg-name="Nova Sport 6" group-title="🇨🇿 Chequia",Nova Sport 6
+acestream://fd572fdeeaaff430ab2775e3bae1620295660ebd
 
-#EXTINF:-1 tvg-logo="" group-title="",Eleven Sports 1 HD [PL]
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" group-title="🇬🇧 Reino Unido",Premier Sports 1 HD
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1 tvg-logo="" group-title="",Eleven Sports 2 HD [PL]
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2 HD" group-title="🇬🇧 Reino Unido",Premier Sports 2 HD
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 tvg-logo="" group-title="",Матч! Футбол 2 ( original ) (RU)
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-id="6152" tvg-name="Матч! Футбол 1" group-title="🇷🇺 Rusia",Матч! Футбол 1
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
-#EXTINF:-1 tvg-logo="" group-title="",Ziggo Sports
+#EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" group-title="🇳🇱 Países Bajos",Ziggo Sport 1 [NL]
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 
-#EXTINF:-1 tvg-logo="https://betonuz.com/wp-content/uploads/2020/09/asdasdasd-1.jpg" group-title="",Pimple TV
+#EXTINF:-1 group-title="🇧🇪 Bélgica",Eleven Sports 2 [BE]
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
+#EXTINF:-1 group-title="Otros",Pimple TV
+acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1 group-title="🇨🇿 Chequia",Nova Sport 4
+acestream://1408de419b1abeac470094e284a07c3512342d69
+
+#EXTINF:-1 group-title="🇧🇪 Bélgica",Eleven Sports 1 [BE]
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 group-title="🇵🇱 Polonia",Eleven Sports 1 4K [PL]
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+
+#EXTINF:-1 group-title="🇵🇱 Polonia",Eleven Sports 1 HD [PL]
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+
+#EXTINF:-1 group-title="🇵🇱 Polonia",Eleven Sports 2 HD [PL]
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="🇷🇺 Rusia",Матч! Футбол 2
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1 group-title="Otros",Pimple TV 2
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9DaGljYWdv&date=20260824&channel_id=392147,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=5828,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=406806,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=562308,https://epg.pw/api/epg.xml?lang=en&date=20260822&channel_id=6150,https://only4.tv/epg/epg.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9TaGFuZ2hhaQ%3D%3D&date=20260825&channel_id=6152,https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Networks/pluto.tv.E.channels.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=6958,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib25nX0tvbmc%3D&date=20260825&channel_id=465329,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/jdemovic/iptv-epg/refs/heads/main/epg.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9DaGljYWdv&date=20260824&channel_id=392147,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=5828,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=406806,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=562308,https://epg.pw/api/epg.xml?lang=en&date=20260822&channel_id=6150,https://only4.tv/epg/epg.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9TaGFuZ2hhaQ%3D%3D&date=20260825&channel_id=6152,https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Networks/pluto.tv.E.channels.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epg.pw/api/epg.xml?lang=en&date=20260825&channel_id=6958,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib25nX0tvbmc%3D&date=20260825&channel_id=465329,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib25nX0tvbmc%3D&date=20260825&channel_id=465329,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
@@ -34,16 +34,11 @@ acestream://6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
 #EXTINF:-1 tvg-logo="" group-title="",Nova Sport 6
 acestream://fd572fdeeaaff430ab2775e3bae1620295660ebd
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",Premier Sports 1 HD
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",Premier Sports 2 HD
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 tvg-logo="" group-title="",Матч! Футбол 1
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2

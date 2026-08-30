@@ -1,54 +1,35 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=67504,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6340,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6338,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=562308,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406566,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406588,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=540072,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=464949,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=465329,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6958,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=5828,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=7612,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392147,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392164,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219100,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219104,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406806,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6152,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6150" refresh="3600"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=90540,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=67504,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6340,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6338,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=562308,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406566,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406588,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=540072,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=464949,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=465329,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6958,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=5828,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=7612,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392147,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392164,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219100,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219104,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406806,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6152,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6150,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 PT" group-title="",Eleven Sports 1 PT
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",DAZN LaLiga2
-acestream://3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",DAZN LaLiga3
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",DAZN LaLiga4
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",DAZN LaLiga5
-acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",DAZN LaLiga6
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",DAZN LaLiga7
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",DAZN LaLiga8
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-
-
 #EXTINF:-1 tvg-id="406566" tvg-name="M+ LALIGA [ES]" group-title="",M+ LaLiga
-https://cdx-08192.website/embed/movistarlaliga-es
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 
 #EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" group-title="",DAZN LaLiga
-https://cdx-08192.website/play/daznlaliga-es
-
-#EXTINF:-1 tvg-id="464949" tvg-name="ESPN Deportes HD" group-title="",ESPN Deportes
-https://cdx-08192.website/play/espndeportes-usa
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
 
 #EXTINF:-1 tvg-id="540072" tvg-name="LaLiga TV Hypermotion [ES]" group-title="",LaLiga TV Hypermotion
-https://cdx-08192.website/play/Liga1
+acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
 
-#EXTINF:-1 tvg-id="465329" tvg-name="UNIVERSO" group-title="",UNIVERSO
-https://cdx-08192.website/embed/universo-usa
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR +" group-title="",MOVISTAR +
+acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
 
-#EXTINF:-1 tvg-id="6958" tvg-name="Sky Sports Premier League" group-title="",Sky Sports Premier League
-https://cdx-08192.website/embed/skysport8-nz
+#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" group-title="",Eleven Sports 1
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
-#EXTINF:-1 tvg-id="562308" tvg-name="CBS Sports Golazo Network" group-title="",CBS Sports Golazo Network
-https://cdx-08192.website/embed/cbssportsgolazo-usa
+#EXTINF:-1 tvg-id="6152" tvg-name="Матч! Футбол 1" group-title="",Матч! Футбол 1
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
 #EXTINF:-1 tvg-id="5828" tvg-name="CANAL+ Sport 1" group-title="",CANAL+ Sport 1
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+#EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="",Матч! Футбол 2
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1 tvg-id="90540" tvg-name="DAZN 2 HD" group-title="",DAZN 2 HD
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
+#EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" group-title="",Ziggo Sport 1 [NL]
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 
 #EXTINF:-1 tvg-id="7612" tvg-name="Nova Sport 4" group-title="",Nova Sport 4
 acestream://1408de419b1abeac470094e284a07c3512342d69
@@ -64,18 +45,6 @@ acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 
 #EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2 HD" group-title="",Premier Sports 2 HD
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-
-#EXTINF:-1 tvg-id="6152" tvg-name="Матч! Футбол 1" group-title="",Матч! Футбол 1
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
-#EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="",Матч! Футбол 2
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-
-#EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" group-title="",Ziggo Sport 1 [NL]
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-
-#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" group-title="",Eleven Sports 1
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
 #EXTINF:-1 tvg-id="6340" tvg-name="Eleven Sports 2" group-title="",Eleven Sports 2
 acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9

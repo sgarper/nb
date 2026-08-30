@@ -10,7 +10,7 @@ acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1 tvg-id="540072" tvg-name="LaLiga TV Hypermotion [ES]" group-title="",LaLiga TV Hypermotion
 acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR +" group-title="",MOVISTAR +
+#EXTINF:-1 tvg-id="" tvg-name="Movistar plus HD" group-title="",Movistar plus HD
 acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
 
 #EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" group-title="",Eleven Sports 1
@@ -19,11 +19,11 @@ acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="6152" tvg-name="Матч! Футбол 1" group-title="",Матч! Футбол 1
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
-#EXTINF:-1 tvg-id="5828" tvg-name="CANAL+ Sport 1" group-title="",CANAL+ Sport 1
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-
 #EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="",Матч! Футбол 2
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1 tvg-id="5828" tvg-name="CANAL+ Sport 1" group-title="",CANAL+ Sport 1
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
 #EXTINF:-1 tvg-id="90540" tvg-name="DAZN 2 HD" group-title="",DAZN 2 HD
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865

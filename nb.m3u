@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=5755,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=538903,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=62234,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=90540,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=67504,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6340,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6338,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=562308,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406566,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406588,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=540072,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=464949,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=465329,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6958,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=5828,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=7612,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392147,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392164,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219100,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219104,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406806,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6152,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6150,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" group-title="",Eleven Sports 1
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-
-#EXTINF:-1 tvg-id="6340" tvg-name="Eleven Sports 2" group-title="",Eleven Sports 2
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-
 #EXTINF:-1 tvg-id="5755" tvg-name="Матч! Футбол" group-title="",Матч! Футбол
 acestream://2bb81a951f3daa6d0cafad118c289e7640d8c935
 
@@ -16,15 +10,6 @@ acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="",Матч! Футбол 2
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 
-#EXTINF:-1 tvg-id="5828" tvg-name="CANAL+ Sport 1" group-title="",CANAL+ Sport 1
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-
-#EXTINF:-1 tvg-id="90540" tvg-name="DAZN 2 HD" group-title="",DAZN 2 HD
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-
-#EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" group-title="",Ziggo Sport 1 [NL]
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-
 #EXTINF:-1 tvg-id="7612" tvg-name="Nova Sport 4" group-title="",Nova Sport 4
 acestream://1408de419b1abeac470094e284a07c3512342d69
 
@@ -33,6 +18,21 @@ acestream://6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
 
 #EXTINF:-1 tvg-id="392164" tvg-name="Nova Sport 6" group-title="",Nova Sport 6
 acestream://fd572fdeeaaff430ab2775e3bae1620295660ebd
+
+#EXTINF:-1 tvg-id="5828" tvg-name="CANAL+ Sport 1" group-title="",CANAL+ Sport 1
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" group-title="",Eleven Sports 1
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 tvg-id="6340" tvg-name="Eleven Sports 2" group-title="",Eleven Sports 2
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1 tvg-id="90540" tvg-name="DAZN 2 HD" group-title="",DAZN 2 HD
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
+#EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" group-title="",Ziggo Sport 1 [NL]
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 
 #EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" group-title="",Premier Sports 1 HD
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565

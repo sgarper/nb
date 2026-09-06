@@ -1,19 +1,6 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=5755,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=538903,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=62234,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=90540,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=67504,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6340,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6338,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=562308,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406566,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406588,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=540072,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=464949,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=465329,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6958,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=5828,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=7612,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392147,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=392164,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219100,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=219104,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406806,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6152,https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=6150,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Betis - Real Madrid
-https://livetv.sx/webplayer.php?t=ifr&c=3065161&lang=es&eid=397660749&lid=3065161&ci=15&si=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Betis - Real Madrid
-https://livetv.sx/webplayer.php?t=ifr&c=3065178&lang=es&eid=397660749&lid=3065178&ci=15&si=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Betis - Real Madrid
-https://livetv.sx/webplayer.php?t=ifr&c=3065156&lang=es&eid=397660749&lid=3065156&ci=15&si=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Betis - Real Madrid
-https://livetv.sx/webplayer.php?t=ifr&c=3065157&lang=es&eid=397660749&lid=3065157&ci=15&si=1
-
-
 #EXTINF:-1 tvg-id="5755" tvg-name="Матч! Футбол" group-title="",Матч! Футбол
 acestream://2bb81a951f3daa6d0cafad118c289e7640d8c935
 
@@ -22,6 +9,9 @@ acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
 #EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="",Матч! Футбол 2
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="",Матч! Футбол 2
+acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
 
 #EXTINF:-1 tvg-id="7612" tvg-name="Nova Sport 4" group-title="",Nova Sport 4
 acestream://1408de419b1abeac470094e284a07c3512342d69

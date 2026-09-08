@@ -705,7 +705,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608020514600965_58.png" />
   </channel>
   <programme channel="5755" start="20260908005500 +0200" stop="20260908025500 +0200">
-    <title lang="zh">II Спартакиада. Баскетбол. Мужчины. Финал. Трансляция из Верхней Пышмы</title>
+    <title lang="zh">II Спартакиада. Баскетбол. Мужчины. Final. Трансляция из Верхней Пышмы</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -715,7 +715,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908030000 +0200" stop="20260908050000 +0200">
-    <title lang="zh">II Спартакиада. Пляжный волейбол. Финал. Трансляция из Самары</title>
+    <title lang="zh">II Спартакиада. Пляжный волейбол. Final. Трансляция из Самары</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -730,7 +730,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908060500 +0200" stop="20260908080000 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -745,12 +745,12 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908082500 +0200" stop="20260908103500 +0200">
-    <title lang="zh">Футбол. ЧМ-2026. Аргентина – Алжир. Трансляция из США</title>
+    <title lang="zh">Fútbol. ЧМ-2026. Аргентина – Алжир. Трансляция из США</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908103500 +0200" stop="20260908113500 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -785,7 +785,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908143500 +0200" stop="20260908155500 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -795,32 +795,32 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908180000 +0200" stop="20260908182500 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908182500 +0200" stop="20260908203000 +0200">
-    <title lang="zh">⋗ Футбол. Кубок России. Текстильщик (Иваново) – Арсенал (Тула)</title>
+    <title lang="zh">⋗ Fútbol. Copa de Rusia. Текстильщик (Иваново) – Arsenal (Тула)</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908203000 +0200" stop="20260908224000 +0200">
-    <title lang="zh">⋗ Бильярд. Лига Чемпионов. 1/2 финала. Трансляция из Москвы</title>
+    <title lang="zh">⋗ Billar. Liga de Campeones. Semifinales. Retransmisión desde Moscú</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908224000 +0200" stop="20260908235000 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260908235000 +0200" stop="20260909000000 +0200">
-    <title lang="zh">Футбол. Испания. Обзор матчей</title>
+    <title lang="zh">Fútbol. España. Resumen матчей</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="5755" start="20260909005500 +0200" stop="20260909025500 +0200">
-    <title lang="zh">Бокс. Россия. Мужчины. Финалы. Трансляция из Саранска</title>
+    <title lang="zh">Бокс. Россия. Мужчины. Finalы. Трансляция из Саранска</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -845,7 +845,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909060500 +0200" stop="20260909080000 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -860,12 +860,12 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909082500 +0200" stop="20260909103500 +0200">
-    <title lang="zh">Футбол. ЧМ-2026. Португалия – ДР Конго. Трансляция из США</title>
+    <title lang="zh">Fútbol. ЧМ-2026. Португалия – ДР Конго. Трансляция из США</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909103500 +0200" stop="20260909113500 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -905,37 +905,37 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909143500 +0200" stop="20260909155500 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909155500 +0200" stop="20260909180000 +0200">
-    <title lang="zh">⋗ Футбол. Кубок России. Сокол (Саратов) – Ленинградец (Ленинградская область)</title>
+    <title lang="zh">⋗ Fútbol. Copa de Rusia. Сокол (Саратов) – Ленинградец (Ленинградская область)</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909180000 +0200" stop="20260909181000 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909181000 +0200" stop="20260909203000 +0200">
-    <title lang="zh">⋗ Футбол. Кубок России. Дружба (Майкоп) – Енисей (Красноярск)</title>
+    <title lang="zh">⋗ Fútbol. Copa de Rusia. Дружба (Майкоп) – Енисей (Красноярск)</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909203000 +0200" stop="20260909224000 +0200">
-    <title lang="zh">⋗ Бильярд. Лига Чемпионов. 1/2 финала. Трансляция из Москвы</title>
+    <title lang="zh">⋗ Billar. Liga de Campeones. Semifinales. Retransmisión desde Moscú</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909224000 +0200" stop="20260909235000 +0200">
-    <title lang="zh">⋗ Все на Матч!</title>
+    <title lang="zh">⋗ Все на Partido!</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="5755" start="20260909235000 +0200" stop="20260910000000 +0200">
-    <title lang="zh">Футбол. Италия. Обзор</title>
+    <title lang="zh">Fútbol. Italia. Resumen</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1218,12 +1218,12 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608022946859614_87.png" />
   </channel>
   <programme channel="62234" start="20260908020000 +0200" stop="20260908040000 +0200">
-    <title lang="zh">Футбол. Ла Лига, 4 тур, Валенсия-Барселона</title>
+    <title lang="zh">Fútbol. Ла Лига, 4 тур, Valencia-Barcelona</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="62234" start="20260908040000 +0200" stop="20260908060000 +0200">
-    <title lang="zh">Футбол. Лига 1, 3 тур, Марсель – Париж ФК</title>
+    <title lang="zh">Fútbol. Лига 1, 3 тур, Olympique de Marsella – Париж ФК</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1238,7 +1238,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="62234" start="20260908110000 +0200" stop="20260908130000 +0200">
-    <title lang="zh">Футбол. Ла Лига, 3 тур, Барселона – Райо Вальекано</title>
+    <title lang="zh">Fútbol. Ла Лига, 3 тур, Barcelona – Rayo Vallecano</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1248,12 +1248,12 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="62234" start="20260908160000 +0200" stop="20260908180000 +0200">
-    <title lang="zh">Футбол. Ла Лига, 3 тур, Сельта-Атлетик Б</title>
+    <title lang="zh">Fútbol. Ла Лига, 3 тур, Celta de Vigo-Athletic Club Б</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="62234" start="20260908180000 +0200" stop="20260908200000 +0200">
-    <title lang="zh">Футбол. Лига 1, 2 тур, Лилль – ПСЖ</title>
+    <title lang="zh">Fútbol. Лига 1, 2 тур, Lille – PSG</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1263,22 +1263,22 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="62234" start="20260908220000 +0200" stop="20260909000000 +0200">
-    <title lang="zh">Футбол. Лига 1, 1 тур, ПСЖ-Ренн</title>
+    <title lang="zh">Fútbol. Лига 1, 1 тур, PSG-Rennes</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="62234" start="20260909000000 +0200" stop="20260909020000 +0200">
-    <title lang="zh">Футбол. Ла Лига, 4 тур, Малага-Леванте</title>
+    <title lang="zh">Fútbol. Ла Лига, 4 тур, Малага-Леванте</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909020000 +0200" stop="20260909040000 +0200">
-    <title lang="zh">Футбол. Лига 1, 3 тур, Лион – Осер</title>
+    <title lang="zh">Fútbol. Лига 1, 3 тур, Olympique de Lyon – Auxerre</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909040000 +0200" stop="20260909060000 +0200">
-    <title lang="zh">Теннис. ATP 250. Уинстон-Сейлем. Финал</title>
+    <title lang="zh">Теннис. ATP 250. Уинстон-Сейлем. Final</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1288,32 +1288,32 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909090000 +0200" stop="20260909110000 +0200">
-    <title lang="zh">Футбол. Лига 1, 2 тур, Лилль – ПСЖ</title>
+    <title lang="zh">Fútbol. Лига 1, 2 тур, Lille – PSG</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909110000 +0200" stop="20260909130000 +0200">
-    <title lang="zh">Футбол. Ла Лига, 4 тур, Валенсия-Барселона</title>
+    <title lang="zh">Fútbol. Ла Лига, 4 тур, Valencia-Barcelona</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909130000 +0200" stop="20260909150000 +0200">
-    <title lang="zh">Футбол. Лига 1, 1 тур, Гавр-Монако</title>
+    <title lang="zh">Fútbol. Лига 1, 1 тур, Le Havre-Monaco</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909150000 +0200" stop="20260909170000 +0200">
-    <title lang="zh">Футбол. Ла Лига, 3 тур, Депортиво-Валенсия</title>
+    <title lang="zh">Fútbol. Ла Лига, 3 тур, Депортиво-Valencia</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909170000 +0200" stop="20260909190000 +0200">
-    <title lang="zh">Футбол. Ла Лига, 4 тур, Атлетик Бильбао – Атлетико Мадрид</title>
+    <title lang="zh">Fútbol. Ла Лига, 4 тур, Athletic Club Бильбао – Atlético de Madrid Мадрид</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909190000 +0200" stop="20260909210000 +0200">
-    <title lang="zh">Теннис. ATP 1000. Цинциннати. Финал</title>
+    <title lang="zh">Теннис. ATP 1000. Цинциннати. Final</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1323,7 +1323,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909230000 +0200" stop="20260910000000 +0200">
-    <title lang="zh">Футбол. Ла Лига, 4 тур, Реал Бетис – Реал Мадрид</title>
+    <title lang="zh">Fútbol. Ла Лига, 4 тур, Real Madrid Real Betis – Real Madrid Мадрид</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1610,7 +1610,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608023804679905_74.png" />
   </channel>
   <programme channel="6340" start="20260908000000 +0200" stop="20260908020000 +0200">
-    <title lang="zh">Piłka nożna: Liga francuska. RC Lens – FC Lorient</title>
+    <title lang="zh">Fútbol: Liga Francesa. RC Lens – FC Lorient</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1625,12 +1625,12 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6340" start="20260908040000 +0200" stop="20260908060000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. Genoa CFC – Como 1907</title>
+    <title lang="zh">Fútbol: Serie A. Genoa CFC – Como 1907</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6340" start="20260908060000 +0200" stop="20260908080000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. FC Schalke 04 – FC Bayern Monachium</title>
+    <title lang="zh">Fútbol: Liga Alemana. FC Schalke 04 – FC Bayern Monachium</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1655,22 +1655,22 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6340" start="20260908100000 +0200" stop="20260908120000 +0200">
-    <title lang="zh">Piłka nożna: Liga francuska. Olympique Marsylia – Paris FC</title>
+    <title lang="zh">Fútbol: Liga Francesa. Olympique Marsylia – Paris FC</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6340" start="20260908120000 +0200" stop="20260908140000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. VfB Stuttgart – 1. FC Köln</title>
+    <title lang="zh">Fútbol: Liga Alemana. VfB Stuttgart – 1. FC Köln</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6340" start="20260908140000 +0200" stop="20260908160000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. AS Roma – Atalanta BC</title>
+    <title lang="zh">Fútbol: Serie A. AS Roma – Atalanta BC</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6340" start="20260908160000 +0200" stop="20260908180000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. TSG 1899 Hoffenheim – Borussia Dortmund</title>
+    <title lang="zh">Fútbol: Liga Alemana. TSG 1899 Hoffenheim – Borussia Dortmund</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1680,7 +1680,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6340" start="20260908200000 +0200" stop="20260908220000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. Juventus FC – AC Milan</title>
+    <title lang="zh">Fútbol: Serie A. Juventus FC – AC Milan</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1695,7 +1695,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6340" start="20260909000000 +0200" stop="20260909020000 +0200">
-    <title lang="zh">Piłka nożna: Liga francuska. Paris Saint-Germain – AS Monaco</title>
+    <title lang="zh">Fútbol: Liga Francesa. Paris Saint-Germain – AS Monaco</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1715,22 +1715,22 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909040000 +0200" stop="20260909060000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. Genoa CFC – Como 1907</title>
+    <title lang="zh">Fútbol: Serie A. Genoa CFC – Como 1907</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909060000 +0200" stop="20260909080000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. TSG 1899 Hoffenheim – Borussia Dortmund</title>
+    <title lang="zh">Fútbol: Liga Alemana. TSG 1899 Hoffenheim – Borussia Dortmund</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909080000 +0200" stop="20260909084500 +0200">
-    <title lang="zh">Magazyn piłkarski</title>
+    <title lang="zh">Revista / Magazín piłkarski</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909084500 +0200" stop="20260909092000 +0200">
-    <title lang="zh">Magazyn piłkarski</title>
+    <title lang="zh">Revista / Magazín piłkarski</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1745,22 +1745,22 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909100000 +0200" stop="20260909120000 +0200">
-    <title lang="zh">Piłka nożna: Liga francuska. RC Lens – FC Lorient</title>
+    <title lang="zh">Fútbol: Liga Francesa. RC Lens – FC Lorient</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909120000 +0200" stop="20260909140000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. FC Schalke 04 – FC Bayern Monachium</title>
+    <title lang="zh">Fútbol: Liga Alemana. FC Schalke 04 – FC Bayern Monachium</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909140000 +0200" stop="20260909160000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. Inter Mediolan – SSC Napoli</title>
+    <title lang="zh">Fútbol: Serie A. Inter Mediolan – SSC Napoli</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909160000 +0200" stop="20260909180000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. VfB Stuttgart – 1. FC Köln</title>
+    <title lang="zh">Fútbol: Liga Alemana. VfB Stuttgart – 1. FC Köln</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1770,7 +1770,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260909200000 +0200" stop="20260909220000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. AS Roma – Atalanta BC</title>
+    <title lang="zh">Fútbol: Serie A. AS Roma – Atalanta BC</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1800,7 +1800,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6340" start="20260910000000 +0200" stop="20260911000000 +0200">
-    <title lang="zh">Piłka nożna: Liga francuska. Olympique Marsylia – Paris FC</title>
+    <title lang="zh">Fútbol: Liga Francesa. Olympique Marsylia – Paris FC</title>
     <desc />
     <date>2026-09-10</date>
   </programme>
@@ -1819,7 +1819,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6338" start="20260908020000 +0200" stop="20260908040000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. Genoa CFC – Como 1907</title>
+    <title lang="zh">Fútbol: Serie A. Genoa CFC – Como 1907</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1839,12 +1839,12 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6338" start="20260908070000 +0200" stop="20260908090000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. TSG 1899 Hoffenheim – Borussia Dortmund</title>
+    <title lang="zh">Fútbol: Liga Alemana. TSG 1899 Hoffenheim – Borussia Dortmund</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6338" start="20260908090000 +0200" stop="20260908110000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. AS Roma – Atalanta BC</title>
+    <title lang="zh">Fútbol: Serie A. AS Roma – Atalanta BC</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1864,12 +1864,12 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6338" start="20260908160000 +0200" stop="20260908180000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. Inter Mediolan – SSC Napoli</title>
+    <title lang="zh">Fútbol: Serie A. Inter Mediolan – SSC Napoli</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6338" start="20260908180000 +0200" stop="20260908200000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. FC Schalke 04 – FC Bayern Monachium</title>
+    <title lang="zh">Fútbol: Liga Alemana. FC Schalke 04 – FC Bayern Monachium</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -1909,7 +1909,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6338" start="20260909020000 +0200" stop="20260909040000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. Genoa CFC – Como 1907</title>
+    <title lang="zh">Fútbol: Serie A. Genoa CFC – Como 1907</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1934,12 +1934,12 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6338" start="20260909070000 +0200" stop="20260909090000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. VfB Stuttgart – 1. FC Köln</title>
+    <title lang="zh">Fútbol: Liga Alemana. VfB Stuttgart – 1. FC Köln</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6338" start="20260909090000 +0200" stop="20260909110000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. Juventus FC – AC Milan</title>
+    <title lang="zh">Fútbol: Serie A. Juventus FC – AC Milan</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1959,12 +1959,12 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6338" start="20260909160000 +0200" stop="20260909180000 +0200">
-    <title lang="zh">Piłka nożna: Serie A. AS Roma – Atalanta BC</title>
+    <title lang="zh">Fútbol: Serie A. AS Roma – Atalanta BC</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6338" start="20260909180000 +0200" stop="20260909200000 +0200">
-    <title lang="zh">Piłka nożna: Liga niemiecka. TSG 1899 Hoffenheim – Borussia Dortmund</title>
+    <title lang="zh">Fútbol: Liga Alemana. TSG 1899 Hoffenheim – Borussia Dortmund</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -3501,7 +3501,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="5828" start="20260908020000 +0200" stop="20260908042000 +0200">
-    <title lang="zh">Piłka nożna: Ekstraklasa: Cracovia – Górnik Zabrze</title>
+    <title lang="zh">Fútbol: Ekstraklasa: Cracovia – Górnik Zabrze</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -3531,12 +3531,12 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="5828" start="20260908090000 +0200" stop="20260908112000 +0200">
-    <title lang="zh">Piłka nożna: Liga hiszpańska: Getafe CF – Celta Vigo</title>
+    <title lang="zh">Fútbol: Liga Española: Getafe CF – Celta Vigo</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="5828" start="20260908112000 +0200" stop="20260908134500 +0200">
-    <title lang="zh">Piłka nożna: Ekstraklasa: Pogoń Szczecin – Wisła Płock</title>
+    <title lang="zh">Fútbol: Ekstraklasa: Pogoń Szczecin – Wisła Płock</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -3551,7 +3551,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="5828" start="20260908154500 +0200" stop="20260908180000 +0200">
-    <title lang="zh">Piłka nożna: Liga hiszpańska: Elche CF – Real Sociedad</title>
+    <title lang="zh">Fútbol: Liga Española: Elche CF – Real Sociedad</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -3591,7 +3591,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="5828" start="20260909020000 +0200" stop="20260909042500 +0200">
-    <title lang="zh">Piłka nożna: Ekstraklasa: Piast Gliwice – GKS Katowice</title>
+    <title lang="zh">Fútbol: Ekstraklasa: Piast Gliwice – GKS Katowice</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -3621,12 +3621,12 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="5828" start="20260909090000 +0200" stop="20260909112000 +0200">
-    <title lang="zh">Piłka nożna: Liga hiszpańska: Athletic Club – Atletico Madryt</title>
+    <title lang="zh">Fútbol: Liga Española: Athletic Club – Atletico Madryt</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="5828" start="20260909112000 +0200" stop="20260909134500 +0200">
-    <title lang="zh">Piłka nożna: Ekstraklasa: Widzew Łódź – Radomiak Radom</title>
+    <title lang="zh">Fútbol: Ekstraklasa: Widzew Łódź – Radomiak Radom</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -3641,7 +3641,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="5828" start="20260909154000 +0200" stop="20260909180000 +0200">
-    <title lang="zh">Piłka nożna: Liga hiszpańska: Valencia CF – FC Barcelona</title>
+    <title lang="zh">Fútbol: Liga Española: Valencia CF – FC Barcelona</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -3924,7 +3924,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="392147" start="20260909201500 +0200" stop="20260909205500 +0200">
-    <title lang="zh">Studio Ligy mistrů UEFA</title>
+    <title lang="zh">Plató / Análisis Ligy mistrů UEFA</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -3983,7 +3983,7 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="392164" start="20260908204500 +0200" stop="20260908230500 +0200">
-    <title lang="zh">Lille OSC – Real Betis</title>
+    <title lang="zh">Lille OS OSC – Real Betis</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
@@ -3998,7 +3998,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="392164" start="20260909090000 +0200" stop="20260909110000 +0200">
-    <title lang="zh">Lille OSC – Real Betis</title>
+    <title lang="zh">Lille OS OSC – Real Betis</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -4063,7 +4063,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="392164" start="20260909230500 +0200" stop="20260910000000 +0200">
-    <title lang="zh">Lille OSC – Real Betis</title>
+    <title lang="zh">Lille OS OSC – Real Betis</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -4814,137 +4814,137 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908010500 +0200" stop="20260908030000 +0200">
-    <title lang="zh">Италия. Удинезе – Лацио</title>
+    <title lang="zh">Italia. Udinese – Lazio</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908030000 +0200" stop="20260908050000 +0200">
-    <title lang="zh">Италия. Дженоа – Комо</title>
+    <title lang="zh">Italia. Genoa – Como</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908050000 +0200" stop="20260908070000 +0200">
-    <title lang="zh">Италия. Рома – Аталанта</title>
+    <title lang="zh">Italia. AS Roma – Atalanta</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908070000 +0200" stop="20260908090000 +0200">
-    <title lang="zh">Италия. Кальяри – Лечче</title>
+    <title lang="zh">Italia. Cagliari – Lecce</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908090000 +0200" stop="20260908110000 +0200">
-    <title lang="zh">Италия. Удинезе – Лацио</title>
+    <title lang="zh">Italia. Udinese – Lazio</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908110000 +0200" stop="20260908130000 +0200">
-    <title lang="zh">Италия. Интер – Наполи</title>
+    <title lang="zh">Italia. Inter de Milán – Nápoles</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908130000 +0200" stop="20260908150000 +0200">
-    <title lang="zh">Италия. Кальяри – Лечче</title>
+    <title lang="zh">Italia. Cagliari – Lecce</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908150000 +0200" stop="20260908170000 +0200">
-    <title lang="zh">Италия. Удинезе – Лацио</title>
+    <title lang="zh">Italia. Udinese – Lazio</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908170000 +0200" stop="20260908190000 +0200">
-    <title lang="zh">Италия. Фиорентина-Торино</title>
+    <title lang="zh">Italia. Fiorentina-Torino</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908190000 +0200" stop="20260908200000 +0200">
-    <title lang="zh">Футбол. Италия. Обзор</title>
+    <title lang="zh">Fútbol. Italia. Resumen</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908200000 +0200" stop="20260908220000 +0200">
-    <title lang="zh">Италия. Кальяри – Лечче</title>
+    <title lang="zh">Italia. Cagliari – Lecce</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260908220000 +0200" stop="20260909000000 +0200">
-    <title lang="zh">Италия. Удинезе – Лацио</title>
+    <title lang="zh">Italia. Udinese – Lazio</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6152" start="20260909000000 +0200" stop="20260909010000 +0200">
-    <title lang="zh">Футбол. Италия. Обзор</title>
+    <title lang="zh">Fútbol. Italia. Resumen</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909010000 +0200" stop="20260909030000 +0200">
-    <title lang="zh">Италия. Ювентус-Милан</title>
+    <title lang="zh">Italia. Juventus-AC Milan</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909030000 +0200" stop="20260909050000 +0200">
-    <title lang="zh">Италия. Рома – Аталанта</title>
+    <title lang="zh">Italia. AS Roma – Atalanta</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909050000 +0200" stop="20260909070000 +0200">
-    <title lang="zh">Италия. Парма – Монца</title>
+    <title lang="zh">Italia. Parma – Monza</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909070000 +0200" stop="20260909090000 +0200">
-    <title lang="zh">Италия. Болонья – Сассуоло</title>
+    <title lang="zh">Italia. Bologna – Сассуоло</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909090000 +0200" stop="20260909100000 +0200">
-    <title lang="zh">Футбол. Италия. Обзор</title>
+    <title lang="zh">Fútbol. Italia. Resumen</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909100000 +0200" stop="20260909120000 +0200">
-    <title lang="zh">Италия. Кальяри – Лечче</title>
+    <title lang="zh">Italia. Cagliari – Lecce</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909120000 +0200" stop="20260909140000 +0200">
-    <title lang="zh">Италия. Удинезе – Лацио</title>
+    <title lang="zh">Italia. Udinese – Lazio</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909140000 +0200" stop="20260909160000 +0200">
-    <title lang="zh">Италия. Дженоа – Комо</title>
+    <title lang="zh">Italia. Genoa – Como</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909160000 +0200" stop="20260909170000 +0200">
-    <title lang="zh">Футбол. Италия. Обзор</title>
+    <title lang="zh">Fútbol. Italia. Resumen</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909170000 +0200" stop="20260909190000 +0200">
-    <title lang="zh">Италия. Рома – Аталанта</title>
+    <title lang="zh">Italia. AS Roma – Atalanta</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909190000 +0200" stop="20260909193000 +0200">
-    <title lang="zh">Журнал Серии-А</title>
+    <title lang="zh">Revista / Magazín Серии-А</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909193000 +0200" stop="20260909213000 +0200">
-    <title lang="zh">Италия. Ювентус-Милан</title>
+    <title lang="zh">Italia. Juventus-AC Milan</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909213000 +0200" stop="20260909233000 +0200">
-    <title lang="zh">Италия. Интер – Наполи</title>
+    <title lang="zh">Italia. Inter de Milán – Nápoles</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6152" start="20260909233000 +0200" stop="20260910000000 +0200">
-    <title lang="zh">Италия. Болонья – Сассуоло</title>
+    <title lang="zh">Italia. Bologna – Сассуоло</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -4958,127 +4958,127 @@
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908030000 +0200" stop="20260908050000 +0200">
-    <title lang="zh">Испания. Эльче-Реал Сосьедад</title>
+    <title lang="zh">España. Эльче-Real Madrid Сосьедад</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908050000 +0200" stop="20260908070000 +0200">
-    <title lang="zh">Испания. Райо Вальекано – Расинг</title>
+    <title lang="zh">España. Rayo Vallecano – Расинг</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908070000 +0200" stop="20260908090000 +0200">
-    <title lang="zh">Испания. Хетафе-Сельта</title>
+    <title lang="zh">España. Getafe-Celta de Vigo</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908090000 +0200" stop="20260908110000 +0200">
-    <title lang="zh">Испания. Эльче-Реал Сосьедад</title>
+    <title lang="zh">España. Эльче-Real Madrid Сосьедад</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908110000 +0200" stop="20260908130000 +0200">
-    <title lang="zh">Испания. Вильярреал-Депортиво</title>
+    <title lang="zh">España. Villarreal-Депортиво</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908130000 +0200" stop="20260908150000 +0200">
-    <title lang="zh">Испания. Атлетик – Атлетико</title>
+    <title lang="zh">España. Athletic Club – Atlético de Madrid</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908150000 +0200" stop="20260908170000 +0200">
-    <title lang="zh">Испания. Хетафе-Сельта</title>
+    <title lang="zh">España. Getafe-Celta de Vigo</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908170000 +0200" stop="20260908190000 +0200">
-    <title lang="zh">Испания. Эльче-Реал Сосьедад</title>
+    <title lang="zh">España. Эльче-Real Madrid Сосьедад</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908190000 +0200" stop="20260908200000 +0200">
-    <title lang="zh">Испания. Обзор тура</title>
+    <title lang="zh">España. Resumen de la jornada</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908200000 +0200" stop="20260908220000 +0200">
-    <title lang="zh">Испания. Бетис – Реал</title>
+    <title lang="zh">España. Real Betis – Real Madrid</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260908220000 +0200" stop="20260909000000 +0200">
-    <title lang="zh">Испания. Валенсия – Барселона</title>
+    <title lang="zh">España. Valencia – Barcelona</title>
     <desc />
     <date>2026-09-08</date>
   </programme>
   <programme channel="6150" start="20260909000000 +0200" stop="20260909010000 +0200">
-    <title lang="zh">Испания. Обзор тура</title>
+    <title lang="zh">España. Resumen de la jornada</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909010000 +0200" stop="20260909030000 +0200">
-    <title lang="zh">Испания. Эспаньол – Севилья</title>
+    <title lang="zh">España. Espanyol – Sevilla</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909030000 +0200" stop="20260909050000 +0200">
-    <title lang="zh">Испания. Сегунда. Лас-Пальмас – Леганес</title>
+    <title lang="zh">España. Сегунда. Las Palmas – Leganés</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909050000 +0200" stop="20260909070000 +0200">
-    <title lang="zh">Испания. Атлетик – Атлетико</title>
+    <title lang="zh">España. Athletic Club – Atlético de Madrid</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909070000 +0200" stop="20260909090000 +0200">
-    <title lang="zh">Испания. Бетис – Реал</title>
+    <title lang="zh">España. Real Betis – Real Madrid</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909090000 +0200" stop="20260909100000 +0200">
-    <title lang="zh">Испания. Обзор тура</title>
+    <title lang="zh">España. Resumen de la jornada</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909100000 +0200" stop="20260909120000 +0200">
-    <title lang="zh">Испания. Хетафе-Сельта</title>
+    <title lang="zh">España. Getafe-Celta de Vigo</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909120000 +0200" stop="20260909140000 +0200">
-    <title lang="zh">Испания. Эльче-Реал Сосьедад</title>
+    <title lang="zh">España. Эльче-Real Madrid Сосьедад</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909140000 +0200" stop="20260909160000 +0200">
-    <title lang="zh">Испания. Валенсия – Барселона</title>
+    <title lang="zh">España. Valencia – Barcelona</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909160000 +0200" stop="20260909170000 +0200">
-    <title lang="zh">Испания. Обзор тура</title>
+    <title lang="zh">España. Resumen de la jornada</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909170000 +0200" stop="20260909190000 +0200">
-    <title lang="zh">Испания. Сегунда. Лас-Пальмас – Леганес</title>
+    <title lang="zh">España. Сегунда. Las Palmas – Leganés</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909190000 +0200" stop="20260909210000 +0200">
-    <title lang="zh">Испания. Эспаньол – Севилья</title>
+    <title lang="zh">España. Espanyol – Sevilla</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909210000 +0200" stop="20260909230000 +0200">
-    <title lang="zh">Испания. Атлетик – Атлетико</title>
+    <title lang="zh">España. Athletic Club – Atlético de Madrid</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909230000 +0200" stop="20260910000000 +0200">
-    <title lang="zh">Испания. Алавес – Осасуна</title>
+    <title lang="zh">España. Alavés – Osasuna</title>
     <desc />
     <date>2026-09-09</date>
   </programme>

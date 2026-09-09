@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
 
+#EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",prueba
+https://cdn1.obstreamx.click/live/fk2szouni4.m3u8
+
 #EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 

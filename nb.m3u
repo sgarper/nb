@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
+refresh="3600"
+#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b

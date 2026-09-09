@@ -1,0 +1,64 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
+
+#EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-id="465198" tvg-name="ESPN HD" group-title="",ESPN HD
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+
+#EXTINF:-1 tvg-id="465373" tvg-name="ESPN2 HD" group-title="",ESPN2 HD
+http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+
+#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" group-title="",Sky Sports Main Event HD
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 tvg-id="6958" tvg-name="Sky Sports Premier League HD" group-title="",Sky Sports Premier League HD
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1 tvg-id="5755" tvg-name="Матч! Футбол" group-title="",Матч! Футбол
+http://127.0.0.1:6878/ace/getstream?id=2bb81a951f3daa6d0cafad118c289e7640d8c935
+
+#EXTINF:-1 tvg-id="6152" tvg-name="Матч! Футбол 1" group-title="",Матч! Футбол 1
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+
+#EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="",Матч! Футбол 2
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1 tvg-id="6150" tvg-name="Матч! Футбол 2" group-title="",Матч! Футбол 2
+http://127.0.0.1:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+
+#EXTINF:-1 tvg-id="7612" tvg-name="Nova Sport 4" group-title="",Nova Sport 4
+http://127.0.0.1:6878/ace/getstream?id=1408de419b1abeac470094e284a07c3512342d69
+
+#EXTINF:-1 tvg-id="392147" tvg-name="Nova Sport 5" group-title="",Nova Sport 5
+http://127.0.0.1:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
+
+#EXTINF:-1 tvg-id="392164" tvg-name="Nova Sport 6" group-title="",Nova Sport 6
+http://127.0.0.1:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd
+
+#EXTINF:-1 tvg-id="5828" tvg-name="CANAL+ Sport 1" group-title="",CANAL+ Sport 1
+http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" group-title="",Eleven Sports 1
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 tvg-id="6340" tvg-name="Eleven Sports 2" group-title="",Eleven Sports 2
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1 tvg-id="90540" tvg-name="DAZN 2 HD" group-title="",DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
+#EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" group-title="",Ziggo Sport 1 [NL]
+http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+
+#EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" group-title="",Premier Sports 1 HD
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+
+#EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2 HD" group-title="",Premier Sports 2 HD
+http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-id="62234" tvg-name="Setanta Sports 2 KZ" group-title="",Setanta Sports 2 KZ
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+#EXTINF:-1 tvg-id="538903" tvg-name="Sky Sports Action / NFL [UK]" group-title="",Sky Sports Action / NFL [UK]
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c

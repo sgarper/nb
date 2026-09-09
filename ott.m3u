@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 #EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones" group-title="",M+ Liga de Campeones
-https://a115.azplay47.me/hls/streama265267/index.m3u8?cst=10e99d2f4df0e1d4489e846633654ef8
+https://a75.azplay47.me/hls/streama267066/index.m3u8?cst=34ca049423e3c7b12b2cf6cd2655af5c
+
+#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones" group-title="",M+ Liga de Campeones
+https://a118.azplay47.me/hls/streama265267/index.m3u8?cst=fcb92ee4234c2e8ab52850238458fd18
 
 #EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones" group-title="",M+ Liga de Campeones
 https://hls.hockey.do/secure_hls.php?path=9b49004040ccf64adf108ab4e17a68a6%2Findex.m3u8&e=1788973014&sig=00xRxBcPUEsx4QFGUkgd4IwanpVNtQQrtM0Nn--8qR0&v=1788971214-5194

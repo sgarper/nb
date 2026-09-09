@@ -65,6 +65,8 @@ DICCIONARIO = {
     "Алавес": "Alavés",
     "Эспаньол": "Espanyol",
     "Вальядолид": "Real Valladolid",
+    "Эльче": "Elche",
+    "Сегунда": "Segunda división",
     "Леганес": "Leganés",
 
     # --- INGLATERRA (Premier League) ---

@@ -45,7 +45,6 @@ DICCIONARIO = {
     "Studio": "Plató / Análisis",
 
     # --- ESPAÑA (LaLiga) ---
-    "Реал": "Real Madrid",
     "Реал Мадрид": "Real Madrid",
     "Барселона": "Barcelona",
     "Атлетико": "Atlético de Madrid",

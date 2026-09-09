@@ -1,10 +1,22 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",prueba1
-https://a78.azplay47.me/hls/streama266032/index.m3u8?cst=503cb393851b7b3db17a5484e21ccec2
+#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones" group-title="",M+ Liga de Campeones
+https://a115.azplay47.me/hls/streama265267/index.m3u8?cst=10e99d2f4df0e1d4489e846633654ef8
+
+#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones" group-title="",M+ Liga de Campeones
+https://hls.hockey.do/secure_hls.php?path=9b49004040ccf64adf108ab4e17a68a6%2Findex.m3u8&e=1788973014&sig=00xRxBcPUEsx4QFGUkgd4IwanpVNtQQrtM0Nn--8qR0&v=1788971214-5194
+
+#EXTINF:-1 tvg-id="464949" tvg-name="ESPN Deportes HD" group-title="",ESPN Deportes HD
+https://cdn1.obstreamx.click/live/i29tysr5t6.m3u8
+
+#EXTINF:-1 tvg-id="464949" tvg-name="ESPN Deportes HD" group-title="",ESPN Deportes HD
+https://cdn1.obstreamx.click/live/i29tysr5t6.m3u8?_=1788971027623
 
 #EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-id="400479" tvg-name="BT Sports 3 HD" group-title="",BT Sports 3 HD
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 
 #EXTINF:-1 tvg-id="465198" tvg-name="ESPN HD" group-title="",ESPN HD
 http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442

@@ -1,19 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones" group-title="",M+ Liga de Campeones
-https://a75.azplay47.me/hls/streama267066/index.m3u8?cst=34ca049423e3c7b12b2cf6cd2655af5c
-
-#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones" group-title="",M+ Liga de Campeones
-https://a118.azplay47.me/hls/streama265267/index.m3u8?cst=fcb92ee4234c2e8ab52850238458fd18
-
-#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones" group-title="",M+ Liga de Campeones
-https://hls.hockey.do/secure_hls.php?path=9b49004040ccf64adf108ab4e17a68a6%2Findex.m3u8&e=1788973014&sig=00xRxBcPUEsx4QFGUkgd4IwanpVNtQQrtM0Nn--8qR0&v=1788971214-5194
-
-#EXTINF:-1 tvg-id="464949" tvg-name="ESPN Deportes HD" group-title="",ESPN Deportes HD
-https://cdn1.obstreamx.click/live/i29tysr5t6.m3u8
-
-#EXTINF:-1 tvg-id="464949" tvg-name="ESPN Deportes HD" group-title="",ESPN Deportes HD
-https://cdn1.obstreamx.click/live/i29tysr5t6.m3u8?_=1788971027623
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Pimple TV
+http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
 
 #EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -68,6 +56,9 @@ http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 #EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" group-title="",Ziggo Sport 1 [NL]
 http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport 2 [NL]" group-title="",Ziggo Sport 2 [NL]
+http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 
 #EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" group-title="",Premier Sports 1 HD
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565

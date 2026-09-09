@@ -1308,7 +1308,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="62234" start="20260909230000 +0200" stop="20260910000000 +0200">
-    <title lang="zh">Fútbol. Ла Лига, 4 тур, Real Madrid Real Betis – Real Madrid Мадрид</title>
+    <title lang="zh">Fútbol. Ла Лига, 4 тур, Реал Real Betis – Real Madrid</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -1318,7 +1318,7 @@
     <date>2026-09-10</date>
   </programme>
   <programme channel="62234" start="20260910030000 +0200" stop="20260910050000 +0200">
-    <title lang="zh">Fútbol. Ла Лига, 6 тур, Real Madrid Сосьедад – Celta de Vigo</title>
+    <title lang="zh">Fútbol. Ла Лига, 6 тур, Real Sociedad – Celta de Vigo</title>
     <desc />
     <date>2026-09-10</date>
   </programme>
@@ -1348,7 +1348,7 @@
     <date>2026-09-10</date>
   </programme>
   <programme channel="62234" start="20260910150000 +0200" stop="20260910170000 +0200">
-    <title lang="zh">Fútbol. Ла Лига, 3 тур, Real Madrid Мадрид – Малага</title>
+    <title lang="zh">Fútbol. Ла Лига, 3 тур, Real Madrid – Малага</title>
     <desc />
     <date>2026-09-10</date>
   </programme>
@@ -5118,7 +5118,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909070000 +0200" stop="20260909090000 +0200">
-    <title lang="zh">España. Real Betis – Real Madrid</title>
+    <title lang="zh">España. Real Betis – Реал</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -5133,7 +5133,7 @@
     <date>2026-09-09</date>
   </programme>
   <programme channel="6150" start="20260909120000 +0200" stop="20260909140000 +0200">
-    <title lang="zh">España. Elche-Real Madrid Сосьедад</title>
+    <title lang="zh">España. Elche-Real Sociedad</title>
     <desc />
     <date>2026-09-09</date>
   </programme>
@@ -5183,7 +5183,7 @@
     <date>2026-09-10</date>
   </programme>
   <programme channel="6150" start="20260910070000 +0200" stop="20260910090000 +0200">
-    <title lang="zh">España. Elche-Real Madrid Сосьедад</title>
+    <title lang="zh">España. Elche-Real Sociedad</title>
     <desc />
     <date>2026-09-10</date>
   </programme>
@@ -5203,7 +5203,7 @@
     <date>2026-09-10</date>
   </programme>
   <programme channel="6150" start="20260910150000 +0200" stop="20260910170000 +0200">
-    <title lang="zh">España. Real Betis – Real Madrid</title>
+    <title lang="zh">España. Real Betis – Реал</title>
     <desc />
     <date>2026-09-10</date>
   </programme>

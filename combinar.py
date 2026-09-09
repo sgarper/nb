@@ -145,6 +145,9 @@ def traducir_texto(texto):
     return texto
 
 URLS = [
+    "https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=464949"
+    "https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=406568"
+    "https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=400479"
     "https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=7631",
     "https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=465373",
     "https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&channel_id=465198",

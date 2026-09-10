@@ -1,5 +1,1438 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="7631">
+<tv><channel id="406811">
+    <display-name lang="Russian Federation">Ziggo Sport 6 [NL]</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216021318225115_70.png" />
+  </channel>
+  <programme channel="406811" start="20260910000000 +0200" stop="20260910010000 +0200">
+    <title lang="zh">Bommel en Birdies</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910010000 +0200" stop="20260910023000 +0200">
+    <title lang="zh">LPGA Tour Hoogtepunten. The Solheim Cup</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910023000 +0200" stop="20260910030000 +0200">
+    <title lang="zh">PGA European Tour Hoogtepunten. Omega European Masters</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910030000 +0200" stop="20260910040000 +0200">
+    <title lang="zh">EPGA Legends Tour Hoogtepunten. English Legends</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910040000 +0200" stop="20260910070000 +0200">
+    <title lang="zh">Walker Cup 2026. Dag 2</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910070000 +0200" stop="20260910100000 +0200">
+    <title lang="zh">Walker Cup 2026. Dag 1</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910100000 +0200" stop="20260910130000 +0200">
+    <title lang="zh">Walker Cup 2026. Dag 2</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910130000 +0200" stop="20260910133000 +0200">
+    <title lang="zh">PGA European Tour Hoogtepunten. Omega European Masters</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910133000 +0200" stop="20260910140000 +0200">
+    <title lang="zh">Solheim Cup Voorbeschouwing</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910140000 +0200" stop="20260910190000 +0200">
+    <title lang="zh">⋗ PGA European Tour. Amgen Irish Open: Dag 1</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910190000 +0200" stop="20260910200000 +0200">
+    <title lang="zh">PGA Tour Hoogtepunten. TOUR Championship</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910200000 +0200" stop="20260910205500 +0200">
+    <title lang="zh">PGA Champions Tour Hoogtepunten. The Ally Challenge</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910205500 +0200" stop="20260910230000 +0200">
+    <title lang="zh">⋗ UEFA Champions League. Slavia Praag – RC Lens</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260910230000 +0200" stop="20260911000000 +0200">
+    <title lang="zh">⋗ Solheim Cup 2026. Openingsceremonie</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406811" start="20260911000000 +0200" stop="20260911030000 +0200">
+    <title lang="zh">PGA European Tour. Amgen Irish Open: Dag 1</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911030000 +0200" stop="20260911040000 +0200">
+    <title lang="zh">PGA Korn Ferry Tour Hoogtepunten. BMW Charity Pro-Am</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911040000 +0200" stop="20260911050000 +0200">
+    <title lang="zh">PGA Tour Hoogtepunten. Wyndham Championship</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911050000 +0200" stop="20260911060000 +0200">
+    <title lang="zh">PGA Champions Tour Hoogtepunten. The Ally Challenge</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911060000 +0200" stop="20260911070000 +0200">
+    <title lang="zh">Solheim Cup 2026. Openingsceremonie</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911070000 +0200" stop="20260911100000 +0200">
+    <title lang="zh">PGA European Tour. Amgen Irish Open: Dag 1</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911100000 +0200" stop="20260911130000 +0200">
+    <title lang="zh">TOUR Championship 2026. Dag 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911130000 +0200" stop="20260911140000 +0200">
+    <title lang="zh">Road to the Presidents Cup</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911140000 +0200" stop="20260911190000 +0200">
+    <title lang="zh">⋗ PGA European Tour. Amgen Irish Open: Dag 2</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911190000 +0200" stop="20260911193000 +0200">
+    <title lang="zh">⋗ HotelPlanner Tour Series Hoogtepunten. Rosa Challenge</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911193000 +0200" stop="20260911200000 +0200">
+    <title lang="zh">PGA European Tour Hoogtepunten. Omega European Masters</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911200000 +0200" stop="20260911210000 +0200">
+    <title lang="zh">EPGA Legends Tour Hoogtepunten. English Legends</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260911210000 +0200" stop="20260912000000 +0200">
+    <title lang="zh">⋗ Solheim Cup 2026. Dag 1</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406811" start="20260912000000 +0200" stop="20260913000000 +0200">
+    <title lang="zh">PGA European Tour. Amgen Irish Open: Dag 2</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+<channel id="406813">
+    <display-name lang="Russian Federation">Ziggo Sport 2 [NL]</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216021526719246_23.png" />
+  </channel>
+  <programme channel="406813" start="20260910000000 +0200" stop="20260910014500 +0200">
+    <title lang="zh">UEFA Champions League. FC Barcelona – Feyenoord</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910014500 +0200" stop="20260910033000 +0200">
+    <title lang="zh">UEFA Champions League. Napoli – Arsenal</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910033000 +0200" stop="20260910052000 +0200">
+    <title lang="zh">UEFA Champions League. Paris Saint-Germain – Slovan Bratislava</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910052000 +0200" stop="20260910070000 +0200">
+    <title lang="zh">UEFA Champions League. Liverpool – Atlético Madrid</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910070000 +0200" stop="20260910072500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910072500 +0200" stop="20260910075000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910075000 +0200" stop="20260910084500 +0200">
+    <title lang="zh">Ziggo Sport Goals. Aflevering 3</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910084500 +0200" stop="20260910085500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten. FC Porto – Manchester City</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910085500 +0200" stop="20260910091000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten. Borussia Dortmund – Villarreal CF</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910091000 +0200" stop="20260910105500 +0200">
+    <title lang="zh">UEFA Champions League. FC Barcelona – Feyenoord</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910105500 +0200" stop="20260910112000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910112000 +0200" stop="20260910115000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910115000 +0200" stop="20260910125500 +0200">
+    <title lang="zh">Het laatste duel: Ronaldo vs Messi</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910125500 +0200" stop="20260910131000 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. FC Barcelona – Feyenoord</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910131000 +0200" stop="20260910132000 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. Liverpool – Atlético Madrid</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910132000 +0200" stop="20260910133000 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. Napoli – Arsenal</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910133000 +0200" stop="20260910150000 +0200">
+    <title lang="zh">Tussen De Palen. Finale Ajax 1995</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910150000 +0200" stop="20260910152500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910152500 +0200" stop="20260910155500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910155500 +0200" stop="20260910181000 +0200">
+    <title lang="zh">UEFA Youth League</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910181000 +0200" stop="20260910182000 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. Liverpool – Atlético Madrid</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910182000 +0200" stop="20260910183000 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. Napoli – Arsenal</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910183000 +0200" stop="20260910200000 +0200">
+    <title lang="zh">Tussen De Palen. Finale Ajax 1995</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910200000 +0200" stop="20260910203000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910203000 +0200" stop="20260910205500 +0200">
+    <title lang="zh">UEFA Matchday. Olympique Lyon – Fenerbahçe</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910205500 +0200" stop="20260910230000 +0200">
+    <title lang="zh">⋗ UEFA Champions League. Bayern München – FK Bodø/Glimt</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910230000 +0200" stop="20260910233500 +0200">
+    <title lang="zh">UEFA Matchday. Olympique Lyon – Fenerbahçe</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260910233500 +0200" stop="20260911000000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406813" start="20260911000000 +0200" stop="20260911014500 +0200">
+    <title lang="zh">UEFA Champions League. PSV – Shakhtar Donetsk</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911014500 +0200" stop="20260911033000 +0200">
+    <title lang="zh">UEFA Champions League. Fenerbahçe – AS Roma</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911033000 +0200" stop="20260911051500 +0200">
+    <title lang="zh">UEFA Champions League. Manchester United – Sabah FK</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911051500 +0200" stop="20260911070000 +0200">
+    <title lang="zh">UEFA Champions League. Bayern München – FK Bodø/Glimt</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911070000 +0200" stop="20260911072500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911072500 +0200" stop="20260911075000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911075000 +0200" stop="20260911081500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911081500 +0200" stop="20260911100000 +0200">
+    <title lang="zh">Tussen De Palen. Finale Ajax 1995</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911100000 +0200" stop="20260911114500 +0200">
+    <title lang="zh">UEFA Champions League. PSV – Shakhtar Donetsk</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911114500 +0200" stop="20260911121000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911121000 +0200" stop="20260911123500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911123500 +0200" stop="20260911130000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911130000 +0200" stop="20260911140000 +0200">
+    <title lang="zh">Het laatste duel: Ronaldo vs Messi</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911140000 +0200" stop="20260911141500 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. PSV – Shakhtar Donetsk</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911141500 +0200" stop="20260911142500 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. Bayern München – FK Bodø/Glimt</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911142500 +0200" stop="20260911143500 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. Fenerbahçe – AS Roma</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911143500 +0200" stop="20260911150000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911150000 +0200" stop="20260911152500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911152500 +0200" stop="20260911155000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911155000 +0200" stop="20260911170000 +0200">
+    <title lang="zh">Xabi Alonso: The Architect</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911170000 +0200" stop="20260911171500 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. PSV – Shakhtar Donetsk</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911171500 +0200" stop="20260911172000 +0200">
+    <title lang="zh">⋗ UEFA Champions League Hoogtepunten. Bayern München – FK Bodø/Glimt</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911172000 +0200" stop="20260911190500 +0200">
+    <title lang="zh">Tussen De Palen. Finale Ajax 1995</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911190500 +0200" stop="20260911193000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911193000 +0200" stop="20260911195500 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911195500 +0200" stop="20260911202000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911202000 +0200" stop="20260911205500 +0200">
+    <title lang="zh">⋗ Inside Serie A. Aflevering 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911205500 +0200" stop="20260911230500 +0200">
+    <title lang="zh">⋗ LaLiga. Sevilla – Valencia CF</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911230500 +0200" stop="20260911233000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260911233000 +0200" stop="20260912000000 +0200">
+    <title lang="zh">UEFA Champions League Hoogtepunten</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406813" start="20260912000000 +0200" stop="20260913000000 +0200">
+    <title lang="zh">UEFA Champions League. FC Barcelona – Feyenoord</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+<channel id="6151">
+    <display-name lang="Russian Federation">Матч! Футбол 3</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608022811032016_87.png" />
+  </channel>
+  <programme channel="6151" start="20260910011000 +0200" stop="20260910030500 +0200">
+    <title lang="zh">Португалия. Морейренсе – Бенфика</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910030500 +0200" stop="20260910050000 +0200">
+    <title lang="zh">Бразилия. Флуминенсе – Васко да Гама</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910050000 +0200" stop="20260910070000 +0200">
+    <title lang="zh">Бразилия. Витория – Гремио</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910070000 +0200" stop="20260910090000 +0200">
+    <title lang="zh">Португалия. Морейренсе – Бенфика</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910090000 +0200" stop="20260910093000 +0200">
+    <title lang="zh">Revista / Magazín Чемпионата Бразилии</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910093000 +0200" stop="20260910113000 +0200">
+    <title lang="zh">Бразилия. Ботафого – Палмейрас</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910113000 +0200" stop="20260910133000 +0200">
+    <title lang="zh">Португалия. Морейренсе – Бенфика</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910133000 +0200" stop="20260910153000 +0200">
+    <title lang="zh">Бразилия. Сан-Паулу – Atlético de Madrid Минейро</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910153000 +0200" stop="20260910160000 +0200">
+    <title lang="zh">Revista / Magazín Чемпионата Бразилии</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910160000 +0200" stop="20260910180000 +0200">
+    <title lang="zh">Бразилия. Крузейро – Atlético de Madrid Паранаэнсе</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910180000 +0200" stop="20260910200000 +0200">
+    <title lang="zh">Португалия. Морейренсе – Бенфика</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910200000 +0200" stop="20260910220000 +0200">
+    <title lang="zh">Португалия. Спортинг – Насьонал</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910220000 +0200" stop="20260910235500 +0200">
+    <title lang="zh">Бразилия. Флуминенсе – Васко да Гама</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260910235500 +0200" stop="20260911000000 +0200">
+    <title lang="zh">Турция. Resumen de la jornada</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="6151" start="20260911011000 +0200" stop="20260911030500 +0200">
+    <title lang="zh">Турция. Фенербахче – Бешикташ</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911030500 +0200" stop="20260911050000 +0200">
+    <title lang="zh">Бразилия. Ботафого – Палмейрас</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911050000 +0200" stop="20260911070000 +0200">
+    <title lang="zh">Португалия. Спортинг – Насьонал</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911070000 +0200" stop="20260911085500 +0200">
+    <title lang="zh">Бразилия. Крузейро – Atlético de Madrid Паранаэнсе</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911085500 +0200" stop="20260911105500 +0200">
+    <title lang="zh">Бразилия. Сан-Паулу – Atlético de Madrid Минейро</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911105500 +0200" stop="20260911125500 +0200">
+    <title lang="zh">Бразилия. Флуминенсе – Васко да Гама</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911125500 +0200" stop="20260911133000 +0200">
+    <title lang="zh">Португалия. Resumen de la jornada</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911133000 +0200" stop="20260911145000 +0200">
+    <title lang="zh">Турция. Resumen de la jornada</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911145000 +0200" stop="20260911165000 +0200">
+    <title lang="zh">Португалия. Морейренсе – Бенфика</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911165000 +0200" stop="20260911185500 +0200">
+    <title lang="zh">Бразилия. Витория – Гремио</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911185500 +0200" stop="20260911210000 +0200">
+    <title lang="zh">⋗ Турция. Бешикташ – Эрзурумспор</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911210000 +0200" stop="20260911230000 +0200">
+    <title lang="zh">Бразилия. Ботафого – Палмейрас</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911230000 +0200" stop="20260911233500 +0200">
+    <title lang="zh">Португалия. Resumen de la jornada</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="6151" start="20260911233500 +0200" stop="20260912000000 +0200">
+    <title lang="zh">Турция. Бешикташ – Эрзурумспор</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+<channel id="7798">
+    <display-name lang="Russian Federation">BT Sport 2 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608040053994518_16.png" />
+  </channel>
+  <programme channel="7798" start="20260910000000 +0200" stop="20260910003000 +0200">
+    <title lang="zh">CPL T20. Guyana Amazon Warriors v Antigua Barbuda Falcons</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910003000 +0200" stop="20260910044500 +0200">
+    <title lang="zh">⋗ CPL T20. Guyana Amazon Warriors v St. Lucia Kings</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910044500 +0200" stop="20260910050000 +0200">
+    <title lang="zh">TNT Sports Cricket Reload. West Indies v Australia: 1st T20</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910050000 +0200" stop="20260910051500 +0200">
+    <title lang="zh">TNT Sports Cricket Reload. West Indies v Australia: 2nd T20</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910051500 +0200" stop="20260910053000 +0200">
+    <title lang="zh">TNT Sports Cricket Reload. West Indies v Australia: 3rd T20</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910053000 +0200" stop="20260910060000 +0200">
+    <title lang="zh">The WRC Magazine. Rally Chile Bio Bío</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910060000 +0200" stop="20260910070000 +0200">
+    <title lang="zh">FIA World Endurance Championship Motor Racing. Lone Star Le Mans</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910070000 +0200" stop="20260910090000 +0200">
+    <title lang="zh">English Open Snooker. Highlights</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910090000 +0200" stop="20260910103000 +0200">
+    <title lang="zh">Ultimate Pool NxtGen. Future Stars: Group 1</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910103000 +0200" stop="20260910110000 +0200">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910110000 +0200" stop="20260910144500 +0200">
+    <title lang="zh">⋗ ETPL. Rotterdam Dockers v Glasgow Cosmic</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910144500 +0200" stop="20260910183000 +0200">
+    <title lang="zh">⋗ ETPL. Belfast Wolves v Amsterdam Flames</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910183000 +0200" stop="20260910184500 +0200">
+    <title lang="zh">TNT Sports Reload. Series 26 Episode 36</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910184500 +0200" stop="20260910204500 +0200">
+    <title lang="zh">⋗ UEFA Champions League Football. TBA v TBA</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910204500 +0200" stop="20260910230000 +0200">
+    <title lang="zh">⋗ UEFA Champions League Football. TBA v TBA</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910230000 +0200" stop="20260910233000 +0200">
+    <title lang="zh">The Breakdown. Harry Kane</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260910233000 +0200" stop="20260911000000 +0200">
+    <title lang="zh">The WRC Magazine. Rally Chile Bio Bío</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="7798" start="20260911000000 +0200" stop="20260911003000 +0200">
+    <title lang="zh">CPL T20. Guyana Amazon Warriors v St. Lucia Kings</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911003000 +0200" stop="20260911044500 +0200">
+    <title lang="zh">⋗ CPL T20. Barbados Tridents v St. Kitts Nevis Patriots</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911044500 +0200" stop="20260911050000 +0200">
+    <title lang="zh">TNT Sports Cricket Reload. West Indies v Australia: 4th T20</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911050000 +0200" stop="20260911051500 +0200">
+    <title lang="zh">TNT Sports Cricket Reload. West Indies v Australia: 5th T20</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911051500 +0200" stop="20260911053000 +0200">
+    <title lang="zh">TNT Sports Cricket Reload. West Indies v Pakistan: 1st T20</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911053000 +0200" stop="20260911054500 +0200">
+    <title lang="zh">TNT Sports Cricket Reload. West Indies v Pakistan: 2nd T20</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911054500 +0200" stop="20260911060000 +0200">
+    <title lang="zh">TNT Sports Cricket Reload. West Indies v Pakistan: 3rd T20</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911060000 +0200" stop="20260911070000 +0200">
+    <title lang="zh">FIM Superbike World Championship Motorcycle Racing. French Round</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911070000 +0200" stop="20260911080000 +0200">
+    <title lang="zh">MotoGP. San Marino Grand Prix</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911080000 +0200" stop="20260911090000 +0200">
+    <title lang="zh">MotoGP Highlights. San Marino Grand Prix</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911090000 +0200" stop="20260911114500 +0200">
+    <title lang="zh">⋗ MotoGP. San Marino Grand Prix: Free Practice 1</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911114500 +0200" stop="20260911120000 +0200">
+    <title lang="zh">MotoGP Rewind. Italian Grand Prix</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911120000 +0200" stop="20260911121500 +0200">
+    <title lang="zh">MotoGP Rewind. Hungarian Grand Prix</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911121500 +0200" stop="20260911123000 +0200">
+    <title lang="zh">MotoGP Rewind. Czech Grand Prix</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911123000 +0200" stop="20260911124500 +0200">
+    <title lang="zh">MotoGP Rewind. Dutch Grand Prix</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911124500 +0200" stop="20260911130000 +0200">
+    <title lang="zh">MotoGP Rewind. German Grand Prix</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911130000 +0200" stop="20260911131500 +0200">
+    <title lang="zh">MotoGP Rewind. British Grand Prix</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911131500 +0200" stop="20260911161500 +0200">
+    <title lang="zh">⋗ MotoGP. San Marino Grand Prix: Practice</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911161500 +0200" stop="20260911164500 +0200">
+    <title lang="zh">Inside Serie A</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911164500 +0200" stop="20260911223000 +0200">
+    <title lang="zh">⋗ UCI WorldTour Cycling. Grand Prix de Québec</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911223000 +0200" stop="20260911230000 +0200">
+    <title lang="zh">Premier League Preview. Series 26 Episode 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911230000 +0200" stop="20260911233000 +0200">
+    <title lang="zh">The Fantasy Show. Series 26 Episode 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260911233000 +0200" stop="20260912000000 +0200">
+    <title lang="zh">The Breakdown. Harry Kane</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="7798" start="20260912000000 +0200" stop="20260913000000 +0200">
+    <title lang="zh">CPL T20. Barbados Tridents v St. Kitts Nevis Patriots</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+<channel id="464949">
+    <display-name lang="US">ESPN Deportes HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="464949" start="20260910000000 +0200" stop="20260910013000 +0200">
+    <title lang="zh">ESPN Deportes</title>
+    <desc>Programación por anunciarse.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910013000 +0200" stop="20260910043000 +0200">
+    <title lang="zh">Live: Tenis US Open 2026</title>
+    <desc>Cobertura de los cuartos de final del US Open 2026. Desde el USTA Billie Jean King National Tennis Center, en Flushing, Nueva York.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910043000 +0200" stop="20260910050000 +0200">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910050000 +0200" stop="20260910060000 +0200">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910060000 +0200" stop="20260910070000 +0200">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910070000 +0200" stop="20260910080000 +0200">
+    <title lang="zh">Live: Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910080000 +0200" stop="20260910090000 +0200">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910090000 +0200" stop="20260910100000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910100000 +0200" stop="20260910110000 +0200">
+    <title lang="zh">Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910110000 +0200" stop="20260910120000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910120000 +0200" stop="20260910130000 +0200">
+    <title lang="zh">Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910130000 +0200" stop="20260910140000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910140000 +0200" stop="20260910150000 +0200">
+    <title lang="zh">Béisbol MLB</title>
+    <desc>La cobertura de los partidos de béisbol de las Grandes Ligas de los Estados Unidos.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910150000 +0200" stop="20260910160000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910160000 +0200" stop="20260910170000 +0200">
+    <title lang="zh">Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910170000 +0200" stop="20260910180000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910180000 +0200" stop="20260910190000 +0200">
+    <title lang="zh">Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910190000 +0200" stop="20260910200000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910200000 +0200" stop="20260910210000 +0200">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910210000 +0200" stop="20260910220000 +0200">
+    <title lang="zh">Live: Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910220000 +0200" stop="20260910230000 +0200">
+    <title lang="zh">Live: Equipo F</title>
+    <desc>El epicentro del análisis deportivo con entrevistas exclusivas a las figuras clave de la Liga MX con profundidad y perspectiva únicas.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260910230000 +0200" stop="20260911000000 +0200">
+    <title lang="zh">Live: Ahora o nunca</title>
+    <desc>Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, esports, el mundo de las celebridades y mucho más.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="464949" start="20260911010000 +0200" stop="20260911050000 +0200">
+    <title lang="zh">Live: Tenis US Open 2026</title>
+    <desc>Cobertura de las semifinales femeninas del US Open 2026. Desde el USTA Billie Jean King National Tennis Center, en Flushing, Nueva York.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911050000 +0200" stop="20260911060000 +0200">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911060000 +0200" stop="20260911070000 +0200">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911070000 +0200" stop="20260911080000 +0200">
+    <title lang="zh">Live: Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911080000 +0200" stop="20260911090000 +0200">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911090000 +0200" stop="20260911100000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911100000 +0200" stop="20260911110000 +0200">
+    <title lang="zh">Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911110000 +0200" stop="20260911120000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911120000 +0200" stop="20260911130000 +0200">
+    <title lang="zh">Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911130000 +0200" stop="20260911140000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911140000 +0200" stop="20260911150000 +0200">
+    <title lang="zh">LaLiga al día</title>
+    <desc>Cobertura de los acontecimientos más recientes de LaLiga con noticias, resultados, análisis, debate y más.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911150000 +0200" stop="20260911160000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911160000 +0200" stop="20260911170000 +0200">
+    <title lang="zh">Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911170000 +0200" stop="20260911180000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911180000 +0200" stop="20260911190000 +0200">
+    <title lang="zh">Fútbol picante</title>
+    <desc>La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911190000 +0200" stop="20260911200000 +0200">
+    <title lang="zh">SportsCenter</title>
+    <desc>Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de s</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911200000 +0200" stop="20260911210000 +0200">
+    <title lang="zh">Live: Ahora o nunca</title>
+    <desc>Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, esports, el mundo de las celebridades y mucho más.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260911210000 +0200" stop="20260912000000 +0200">
+    <title lang="zh">Live: Tenis US Open 2026</title>
+    <desc>Cobertura de las semifinales masculinas del US Open 2026. Desde el USTA Billie Jean King National Tennis Center, en Flushing, Nueva York.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="464949" start="20260912000000 +0200" stop="20260913000000 +0200">
+    <title lang="zh">Live: Ahora o nunca</title>
+    <desc>Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, esports, el mundo de las celebridades y mucho más.</desc>
+    <date>2026-09-12</date>
+  </programme>
+<channel id="406568">
+    <display-name lang="Russian Federation">M+ Liga de Campeones [ES]</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" />
+  </channel>
+  <programme channel="406568" start="20260910003000 +0200" stop="20260910022000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Stuttgart – Viking</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910022000 +0200" stop="20260910041000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Sporting Portugal – Galatasaray</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910041000 +0200" stop="20260910060000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Nápoles – Arsenal</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910060000 +0200" stop="20260910070000 +0200">
+    <title lang="zh">Universo Valdano (T9): Andrés Iniesta</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910070000 +0200" stop="20260910083000 +0200">
+    <title lang="zh">Noche de Champions (T26/27): 9/9/2026</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910083000 +0200" stop="20260910102000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Barcelona – Feyenoord</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910102000 +0200" stop="20260910121000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Liverpool – At. Madrid</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910121000 +0200" stop="20260910140000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Nápoles – Arsenal</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910140000 +0200" stop="20260910155500 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Barcelona – Feyenoord</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910155500 +0200" stop="20260910183000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Bayern Múnich – Bodo/Glimt</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910183000 +0200" stop="20260910203000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Liverpool – At. Madrid</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910203000 +0200" stop="20260910205300 +0200">
+    <title lang="zh">La Previa de Champions (T26/27): 10/9/2026 20:30</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910205300 +0200" stop="20260910230000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Bayern Múnich – Bodo/Glimt</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260910230000 +0200" stop="20260911000000 +0200">
+    <title lang="zh">Noche de Champions (T26/27): 10/9/2026</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="406568" start="20260911003000 +0200" stop="20260911022000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Fenerbahçe – Roma</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911022000 +0200" stop="20260911043000 +0200">
+    <title lang="zh">Copa Libertadores (T2026): Independiente del Valle – Flamengo</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911043000 +0200" stop="20260911063000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): PSV Eindhoven – Shakhtar</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911063000 +0200" stop="20260911082000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Slavia Praga – Lens</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911082000 +0200" stop="20260911101000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Como – Leipzig</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911101000 +0200" stop="20260911120000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Manchester Utd. – Sabah</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911120000 +0200" stop="20260911133000 +0200">
+    <title lang="zh">Noche de Champions (T26/27): 10/9/2026</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911133000 +0200" stop="20260911140000 +0200">
+    <title lang="zh">Resumen liga brasileña (T2026): Episodio 26</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911140000 +0200" stop="20260911143000 +0200">
+    <title lang="zh">Magazine Liga Argentina. Torneo Clausura (T2026): Episodio 7</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911143000 +0200" stop="20260911162000 +0200">
+    <title lang="zh">UEFA Champions League (T26/27): Bayern Múnich – Bodo/Glimt</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911162000 +0200" stop="20260911165000 +0200">
+    <title lang="zh">Magazine Liga Argentina. Torneo Clausura (T2026): Episodio 7</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911165000 +0200" stop="20260911172000 +0200">
+    <title lang="zh">Resumen liga brasileña (T2026): Episodio 26</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911172000 +0200" stop="20260911192500 +0200">
+    <title lang="zh">Liga Saudí (T26/27): Al Qadsiah – Al Ettifaq</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911192500 +0200" stop="20260911195500 +0200">
+    <title lang="zh">Resumen liga brasileña (T2026): Episodio 26</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911195500 +0200" stop="20260911202500 +0200">
+    <title lang="zh">Magazine Liga Argentina. Torneo Clausura (T2026): Episodio 7</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911202500 +0200" stop="20260911223000 +0200">
+    <title lang="zh">Bundesliga (T26/27): Unión Berlín- Schalke</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911223000 +0200" stop="20260911230000 +0200">
+    <title lang="zh">Resumen liga brasileña (T2026): Episodio 25</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911230000 +0200" stop="20260911233000 +0200">
+    <title lang="zh">Magazine Liga Argentina. Torneo Clausura (T2026): Episodio 7</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="406568" start="20260911233000 +0200" stop="20260912000000 +0200">
+    <title lang="zh">Universo Valdano (T9): Ronald Araujo</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+<channel id="400479">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="400479" start="20260910000000 +0200" stop="20260910010000 +0200">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Giro della Toscana - Memorial Alfredo Martini in Italy.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910010000 +0200" stop="20260910023000 +0200">
+    <title lang="zh">Ultimate Pool</title>
+    <desc>Action from Group 1 of the Mixed Team event.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910023000 +0200" stop="20260910024500 +0200">
+    <title lang="zh">World Superbike Rewind</title>
+    <desc>The most exciting moments from the ninth round of the season at Circuit de Nevers Magny-Cours in France.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910024500 +0200" stop="20260910030000 +0200">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910030000 +0200" stop="20260910040000 +0200">
+    <title lang="zh">La Vuelta Men</title>
+    <desc>Highlights from stage 17 of the Grand Tour race.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910040000 +0200" stop="20260910060000 +0200">
+    <title lang="zh">Snooker Home Nations Series English Open</title>
+    <desc>Action from the third day of the tournament.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910060000 +0200" stop="20260910070000 +0200">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Including coverage of the 2025 Southampton Boat Show.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910070000 +0200" stop="20260910080000 +0200">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from the latest round of fixtures.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910080000 +0200" stop="20260910083000 +0200">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from matchday three of the Italian top flight, featuring Inter Milan v Napoli, Juventus v AC Milan, AS Roma v Atalanta, and Genoa v Como.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910083000 +0200" stop="20260910090000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Liverpool v Atletico Madrid.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910090000 +0200" stop="20260910093000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Napoli v Arsenal.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910093000 +0200" stop="20260910100000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Barcelona v Feyenoord.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910100000 +0200" stop="20260910103000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Paris Saint-Germain v Slovan Bratislava.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910103000 +0200" stop="20260910110000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>VfB Stuttgart v Viking.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910110000 +0200" stop="20260910113000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Sporting Lisbon v Galatasaray.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910113000 +0200" stop="20260910123000 +0200">
+    <title lang="zh">FIA World Endurance Championship Highlights</title>
+    <desc>Action from the Lone Star at Le Mans, the fifth round of the season at the Circuit of the Americas in Austin, Texas.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910123000 +0200" stop="20260910133000 +0200">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Giro della Toscana - Memorial Alfredo Martini in Italy.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910133000 +0200" stop="20260910143000 +0200">
+    <title lang="zh">La Vuelta Men</title>
+    <desc>Highlights from stage 17 of the Grand Tour race.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910143000 +0200" stop="20260910180000 +0200">
+    <title lang="zh">Live: La Vuelta Men</title>
+    <desc>Coverage of stage 18 of the Grand Tour race, a 32km individual time trial from El Puerto de Santa Maria to Jerez de la Frontera.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910180000 +0200" stop="20260910181500 +0200">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910181500 +0200" stop="20260910184500 +0200">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from matchday three of the Italian top flight, featuring Inter Milan v Napoli, Juventus v AC Milan, AS Roma v Atalanta, and Genoa v Como.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910184500 +0200" stop="20260910204500 +0200">
+    <title lang="zh">Live UEFA Champions League</title>
+    <desc>PSV Eindhoven v Shakhtar Donetsk (Kick-off 5.45pm). Coverage of the league phase match from Philips Stadion.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910204500 +0200" stop="20260910210000 +0200">
+    <title lang="zh">The Breakdown</title>
+    <desc>Ahead of Como's first-ever UEFA Champions League campaign, Liam McDevitt meets Head Coach, Cesc Fabregas and new signing, Trevoh Chalobah.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910210000 +0200" stop="20260910230000 +0200">
+    <title lang="zh">Live UEFA Champions League</title>
+    <desc>Como v RB Leipzig (Kick-off 8.00pm). Coverage of the league phase match from Djarum Stadio - Giuseppe Sinigaglia.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260910230000 +0200" stop="20260911000000 +0200">
+    <title lang="zh">La Vuelta Men</title>
+    <desc>Highlights from stage 18 of the Grand Tour race.</desc>
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="400479" start="20260911000000 +0200" stop="20260911010000 +0200">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Gran Premio citta di Peccioli-Coppa Sabatini.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911010000 +0200" stop="20260911013000 +0200">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911013000 +0200" stop="20260911023000 +0200">
+    <title lang="zh">FIA World Endurance Championship Highlights</title>
+    <desc>Action from the Lone Star at Le Mans, the fifth round of the season at the Circuit of the Americas in Austin, Texas.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911023000 +0200" stop="20260911024500 +0200">
+    <title lang="zh">World Superbike Rewind</title>
+    <desc>The most exciting moments from the ninth round of the season at Circuit de Nevers Magny-Cours in France.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911024500 +0200" stop="20260911030000 +0200">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911030000 +0200" stop="20260911040000 +0200">
+    <title lang="zh">La Vuelta Men</title>
+    <desc>Highlights from stage 18 of the Grand Tour race.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911040000 +0200" stop="20260911060000 +0200">
+    <title lang="zh">Snooker Home Nations Series English Open</title>
+    <desc>Action from the fourth day of the tournament.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911060000 +0200" stop="20260911070000 +0200">
+    <title lang="zh">PREM Rugby Cup</title>
+    <desc>Bristol Bears v Gloucester Rugby.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911070000 +0200" stop="20260911080000 +0200">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Thursday's matchday one fixtures, including Manchester United v Sabah, Bayern Munich v Bodo/Glimt, and Como v RB Leipzig.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911080000 +0200" stop="20260911083000 +0200">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>Peter and Kasper Schmeichel discuss their fascinating dynamic and share insight around the evolution of the art of goalkeeping, spanning their own careers to the present day.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911083000 +0200" stop="20260911090000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Manchester United v Sabah.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911090000 +0200" stop="20260911093000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Bayern Munich v Bodo/Glimt.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911093000 +0200" stop="20260911100000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Como v RB Leipzig.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911100000 +0200" stop="20260911103000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Fenerbahce v AS Roma.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911103000 +0200" stop="20260911110000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>PSV Eindhoven v Shakhtar Donetsk.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911110000 +0200" stop="20260911113000 +0200">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Slavia Prague v Lens.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911113000 +0200" stop="20260911120000 +0200">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from matchday three of the Italian top flight, featuring Inter Milan v Napoli, Juventus v AC Milan, AS Roma v Atalanta, and Genoa v Como.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911120000 +0200" stop="20260911130000 +0200">
+    <title lang="zh">La Vuelta Men</title>
+    <desc>Highlights from stage 18 of the Grand Tour race.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911130000 +0200" stop="20260911180000 +0200">
+    <title lang="zh">Live: La Vuelta Men</title>
+    <desc>Coverage of stage 19 of the Grand Tour race, a 210km hilly route from Velez-Malaga to Penas Blancas.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911180000 +0200" stop="20260911183000 +0200">
+    <title lang="zh">The Fantasy Show</title>
+    <desc>The Fantasy Premier League experts look ahead to gameweek four of the 2026/27 season.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911183000 +0200" stop="20260911184500 +0200">
+    <title lang="zh">Premier League Reload</title>
+    <desc>A whirlwind catch-up from matchday three of the top flight, including Newcastle United v Bournemouth, Ipswich Town v Liverpool, Arsenal v Chelsea, and Everton v Manchester United.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911184500 +0200" stop="20260911191500 +0200">
+    <title lang="zh">Inside Serie A</title>
+    <desc>A round-up of all the latest news from the Italian top flight.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911191500 +0200" stop="20260911201500 +0200">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911201500 +0200" stop="20260911230000 +0200">
+    <title lang="zh">Live MLB</title>
+    <desc>Chicago Cubs v Pittsburgh Pirates (Start-time 7.20pm). Coverage of the National League match from Wrigley Field.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260911230000 +0200" stop="20260912000000 +0200">
+    <title lang="zh">La Vuelta Men</title>
+    <desc>Highlights from stage 19 of the Grand Tour race.</desc>
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="400479" start="20260912000000 +0200" stop="20260913000000 +0200">
+    <title lang="zh">AFL</title>
+    <desc>Fremantle v Geelong Cats.</desc>
+    <date>2026-09-12</date>
+  </programme>
+<channel id="7631">
     <display-name lang="Russian Federation">BT Sport 1 HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608040051318310_94.png" />
   </channel>
@@ -1318,7 +2751,7 @@
     <date>2026-09-10</date>
   </programme>
   <programme channel="62234" start="20260910230000 +0200" stop="20260911000000 +0200">
-    <title lang="zh">Fútbol. Ла Лига, 4 тур, Villarreal – Депортиво Ла-Корунья</title>
+    <title lang="zh">Fútbol. Ла Лига, 4 тур, Villarreal – Deportivo de la Coruña Ла-Корунья</title>
     <desc />
     <date>2026-09-10</date>
   </programme>
@@ -5123,7 +6556,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608022808318634_81.png" />
   </channel>
   <programme channel="6150" start="20260910010000 +0200" stop="20260910030000 +0200">
-    <title lang="zh">España. Villarreal-Депортиво</title>
+    <title lang="zh">España. Villarreal-Deportivo de la Coruña</title>
     <desc />
     <date>2026-09-10</date>
   </programme>
@@ -5168,7 +6601,7 @@
     <date>2026-09-10</date>
   </programme>
   <programme channel="6150" start="20260910190000 +0200" stop="20260910210000 +0200">
-    <title lang="zh">España. Villarreal-Депортиво</title>
+    <title lang="zh">España. Villarreal-Deportivo de la Coruña</title>
     <desc />
     <date>2026-09-10</date>
   </programme>
@@ -5178,7 +6611,7 @@
     <date>2026-09-10</date>
   </programme>
   <programme channel="6150" start="20260910230000 +0200" stop="20260911000000 +0200">
-    <title lang="zh">España. Rayo Vallecano – Расинг</title>
+    <title lang="zh">España. Rayo Vallecano – Racing de Santander</title>
     <desc />
     <date>2026-09-10</date>
   </programme>
@@ -5238,7 +6671,7 @@
     <date>2026-09-11</date>
   </programme>
   <programme channel="6150" start="20260911230000 +0200" stop="20260912000000 +0200">
-    <title lang="zh">España. Villarreal-Депортиво</title>
+    <title lang="zh">España. Villarreal-Deportivo de la Coruña</title>
     <desc />
     <date>2026-09-11</date>
   </programme>

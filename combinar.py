@@ -66,6 +66,8 @@ DICCIONARIO = {
     "Вальядолид": "Real Valladolid",
     "Эльче": "Elche",
     "Сегунда": "Segunda división",
+    "Депортиво": "Deportivo de la Coruña",
+    "Расинг": "Racing de Santander",
     "Леганес": "Leganés",
 
     # --- INGLATERRA (Premier League) ---

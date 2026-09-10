@@ -1,5 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="406811">
+<tv><channel id="409596">
+    <display-name lang="Russian Federation">DAZN 4 PT</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/23/20250123023306247644_16.png" />
+  </channel>
+  <programme channel="409596" start="20260910010600 +0200" stop="20260910045300 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="409596" start="20260910045300 +0200" stop="20260910084000 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="409596" start="20260910084000 +0200" stop="20260910122600 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="409596" start="20260910122600 +0200" stop="20260910161300 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="409596" start="20260910161300 +0200" stop="20260910200000 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="409596" start="20260910200000 +0200" stop="20260910220000 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="409596" start="20260910220000 +0200" stop="20260911000000 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-10</date>
+  </programme>
+  <programme channel="409596" start="20260911014400 +0200" stop="20260911052700 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="409596" start="20260911052700 +0200" stop="20260911091100 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="409596" start="20260911091100 +0200" stop="20260911125500 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="409596" start="20260911125500 +0200" stop="20260911163800 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="409596" start="20260911163800 +0200" stop="20260911202200 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="409596" start="20260911202200 +0200" stop="20260912000000 +0200">
+    <title lang="zh">DAZN 4</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+<channel id="406811">
     <display-name lang="Russian Federation">Ziggo Sport 6 [NL]</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216021318225115_70.png" />
   </channel>
@@ -3372,12 +3441,12 @@
     <date>2026-09-10</date>
   </programme>
   <programme channel="6338" start="20260911003500 +0200" stop="20260911010000 +0200">
-    <title lang="zh">Bundesliga Clubs: Werder</title>
+    <title lang="zh">Bundesliga Clubs: SV Werder Brema</title>
     <desc />
     <date>2026-09-11</date>
   </programme>
   <programme channel="6338" start="20260911010000 +0200" stop="20260911012000 +0200">
-    <title lang="zh">Bundesliga Clubs: Schalke</title>
+    <title lang="zh">Bundesliga Clubs: FC Schalke 04</title>
     <desc />
     <date>2026-09-11</date>
   </programme>
@@ -3407,7 +3476,7 @@
     <date>2026-09-11</date>
   </programme>
   <programme channel="6338" start="20260911063500 +0200" stop="20260911070000 +0200">
-    <title lang="zh">Wywiad Eleven</title>
+    <title lang="zh">Wywiad z Michałem Skórasiem</title>
     <desc />
     <date>2026-09-11</date>
   </programme>
@@ -3422,7 +3491,7 @@
     <date>2026-09-11</date>
   </programme>
   <programme channel="6338" start="20260911093500 +0200" stop="20260911095000 +0200">
-    <title lang="zh">Bundesliga Clubs: Werder</title>
+    <title lang="zh">Bundesliga Clubs: SV Werder Brema</title>
     <desc />
     <date>2026-09-11</date>
   </programme>
@@ -5437,7 +5506,7 @@
     <date>2026-09-11</date>
   </programme>
   <programme channel="392147" start="20260911120000 +0200" stop="20260911132000 +0200">
-    <title lang="zh">Porsche Supercup na Monze (závod)</title>
+    <title lang="zh">Porsche Supercup v Zandvoortu (2. závod)</title>
     <desc />
     <date>2026-09-11</date>
   </programme>
@@ -5659,6 +5728,11 @@
     <title lang="zh">Red Bull Grand Prix of San Marino and The Rimini Riviera (trénink Moto3)</title>
     <desc />
     <date>2026-09-11</date>
+  </programme>
+  <programme channel="392164" start="20260912000000 +0200" stop="20260913000000 +0200">
+    <title lang="zh">Red Bull Grand Prix of San Marino and The Rimini Riviera (trénink Moto2)</title>
+    <desc />
+    <date>2026-09-12</date>
   </programme>
 <channel id="219100">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 1 HD</display-name>

@@ -74,3 +74,9 @@ http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 #EXTINF:-1 tvg-id="538903" tvg-name="Sky Sports Action / NFL [UK]" group-title="",Sky Sports Action / NFL [UK]
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Pimnple TV (Champions)
+http://127.0.0.1:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+
+#EXTINF:-1 tvg-id="409596" tvg-name="DAZN 4" group-title="",DAZN 4
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e

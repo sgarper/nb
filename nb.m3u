@@ -1,10 +1,10 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
-
-#EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",prueba1
-https://a78.azplay47.me/hls/streama266032/index.m3u8?cst=503cb393851b7b3db17a5484e21ccec2
+#EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 #EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-id="400479" tvg-name="BT Sports 3 HD" group-title="",BT Sports 3 HD
+acestream://5f966c123759de46dff29c379266b7a403452033
 
 #EXTINF:-1 tvg-id="465198" tvg-name="ESPN HD" group-title="",ESPN HD
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
@@ -54,6 +54,9 @@ acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" group-title="",Ziggo Sport 1 [NL]
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport 2 [NL]" group-title="",Ziggo Sport 2 [NL]
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+
 #EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" group-title="",Premier Sports 1 HD
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 
@@ -65,3 +68,6 @@ acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 #EXTINF:-1 tvg-id="538903" tvg-name="Sky Sports Action / NFL [UK]" group-title="",Sky Sports Action / NFL [UK]
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Pimple TV
+acestream://e38b33c56332de27ff25df223cdf488b1ec6051f

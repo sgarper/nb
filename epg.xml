@@ -864,6 +864,324 @@
     <desc />
     <date>2026-09-12</date>
   </programme>
+<channel id="67502">
+    <display-name lang="Russian Federation">Eleven Sports 2 PT</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608021624983053_52.png" />
+  </channel>
+  <programme channel="67502" start="20260911003000 +0200" stop="20260911010000 +0200">
+    <title lang="zh">DAZN 2</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911010000 +0200" stop="20260911030000 +0200">
+    <title lang="zh">Liverpool x Atl. Madrid – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911030000 +0200" stop="20260911043000 +0200">
+    <title lang="zh">Napoli x Arsenal – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911043000 +0200" stop="20260911050000 +0200">
+    <title lang="zh">DAZN 2</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911050000 +0200" stop="20260911070000 +0200">
+    <title lang="zh">Ipswich Town x Liverpool – Premier League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911070000 +0200" stop="20260911090000 +0200">
+    <title lang="zh">AEK x LASK – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911090000 +0200" stop="20260911110000 +0200">
+    <title lang="zh">Hull City x Aston Villa – Premier League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911110000 +0200" stop="20260911130000 +0200">
+    <title lang="zh">Athletic x Atl. Madrid – LaLiga</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911130000 +0200" stop="20260911150000 +0200">
+    <title lang="zh">Bayern x Bodø / Glimt – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911150000 +0200" stop="20260911170000 +0200">
+    <title lang="zh">Hamburgo x Mainz – Bundesliga</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911170000 +0200" stop="20260911173000 +0200">
+    <title lang="zh">Premier League The Big Interview: Pedro Porro</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911173000 +0200" stop="20260911193000 +0200">
+    <title lang="zh">Valencia x Barcelona – LaLiga</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911193000 +0200" stop="20260911200000 +0200">
+    <title lang="zh">DAZN 2</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911200000 +0200" stop="20260911220000 +0200">
+    <title lang="zh">⋗ Sevilla x Valencia – LaLiga</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260911220000 +0200" stop="20260912000000 +0200">
+    <title lang="zh">DAZN 2</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67502" start="20260912000000 +0200" stop="20260912003000 +0200">
+    <title lang="zh">DAZN 2</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912003000 +0200" stop="20260912023000 +0200">
+    <title lang="zh">Sporting CP x Galatasaray – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912023000 +0200" stop="20260912043000 +0200">
+    <title lang="zh">Manchester United x Sabah – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912043000 +0200" stop="20260912050000 +0200">
+    <title lang="zh">Coventry Rising – Premier League Stories</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912050000 +0200" stop="20260912070000 +0200">
+    <title lang="zh">Slavia Praga x Lens – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912070000 +0200" stop="20260912090000 +0200">
+    <title lang="zh">Fenerbahçe x Roma – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912090000 +0200" stop="20260912110000 +0200">
+    <title lang="zh">Union Berlin x Schalke – Bundesliga</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912110000 +0200" stop="20260912130000 +0200">
+    <title lang="zh">Everton x Manchester United – Premier League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912130000 +0200" stop="20260912150000 +0200">
+    <title lang="zh">Napoli x Arsenal – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912150000 +0200" stop="20260912170000 +0200">
+    <title lang="zh">⋗ Chelsea x Hull City – Premier League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912170000 +0200" stop="20260912173000 +0200">
+    <title lang="zh">The Tigers Return – Premier League Stories</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912173000 +0200" stop="20260912192500 +0200">
+    <title lang="zh">Augsburg x Leverkusen – Bundesliga</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912192500 +0200" stop="20260912200100 +0200">
+    <title lang="zh">Premier League Stories: Petr Cech</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912200100 +0200" stop="20260912220000 +0200">
+    <title lang="zh">⋗ Sunderland x Arsenal – Premier League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67502" start="20260912220000 +0200" stop="20260913000000 +0200">
+    <title lang="zh">Crystal Palace x Ipswich Town – Premier League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+<channel id="67504">
+    <display-name lang="Russian Federation">Eleven Sports 1 PT</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608021749422761_90.png" />
+  </channel>
+  <programme channel="67504" start="20260911000000 +0200" stop="20260911012000 +0200">
+    <title lang="zh">DAZN 1</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911012000 +0200" stop="20260911030000 +0200">
+    <title lang="zh">PSG x Slovan Bratislava – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911030000 +0200" stop="20260911050000 +0200">
+    <title lang="zh">Real Madrid x Inter – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911050000 +0200" stop="20260911070000 +0200">
+    <title lang="zh">Napoli x Arsenal – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911070000 +0200" stop="20260911090000 +0200">
+    <title lang="zh">Manchester United x Sabah – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911090000 +0200" stop="20260911110000 +0200">
+    <title lang="zh">Bayern x Bodø / Glimt – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911110000 +0200" stop="20260911130000 +0200">
+    <title lang="zh">PSV x Shakhtar – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911130000 +0200" stop="20260911150000 +0200">
+    <title lang="zh">FC Porto x Manchester City – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911150000 +0200" stop="20260911170000 +0200">
+    <title lang="zh">Sporting CP x Galatasaray – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911170000 +0200" stop="20260911173000 +0200">
+    <title lang="zh">DAZN 1</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911173000 +0200" stop="20260911193000 +0200">
+    <title lang="zh">DAZN 1</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911193000 +0200" stop="20260911213000 +0200">
+    <title lang="zh">⋗ Union Berlin x Schalke – Bundesliga</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911213000 +0200" stop="20260911214500 +0200">
+    <title lang="zh">Rico Momento</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911214500 +0200" stop="20260911234500 +0200">
+    <title lang="zh">FC Porto x Manchester City – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260911234500 +0200" stop="20260912000000 +0200">
+    <title lang="zh">Sevilla x Valencia – LaLiga</title>
+    <desc />
+    <date>2026-09-11</date>
+  </programme>
+  <programme channel="67504" start="20260912000000 +0200" stop="20260912004500 +0200">
+    <title lang="zh">DAZN 1</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912004500 +0200" stop="20260912030000 +0200">
+    <title lang="zh">FC Porto x Manchester City – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912030000 +0200" stop="20260912050000 +0200">
+    <title lang="zh">Bayern x Bodø / Glimt – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912050000 +0200" stop="20260912070000 +0200">
+    <title lang="zh">Como x Leipzig – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912070000 +0200" stop="20260912090000 +0200">
+    <title lang="zh">Sporting CP x Galatasaray – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912090000 +0200" stop="20260912104500 +0200">
+    <title lang="zh">Manchester United x Sabah – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912104500 +0200" stop="20260912114000 +0200">
+    <title lang="zh">Resumos Da 3ª Jornada – Premier League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912114000 +0200" stop="20260912120000 +0200">
+    <title lang="zh">Rico Momento</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912120000 +0200" stop="20260912140000 +0200">
+    <title lang="zh">⋗ Bochum x Fürth – 2. Bundesliga</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912140000 +0200" stop="20260912143500 +0200">
+    <title lang="zh">Premier League The Big Interview: Pedro Porro</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912143500 +0200" stop="20260912150100 +0200">
+    <title lang="zh">Diogo Jota – Premier League Stories</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912150100 +0200" stop="20260912170000 +0200">
+    <title lang="zh">⋗ Liverpool x Fulham – Premier League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912170000 +0200" stop="20260912171500 +0200">
+    <title lang="zh">FC Porto x Manchester City – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912171500 +0200" stop="20260912173100 +0200">
+    <title lang="zh">Sporting CP x Galatasaray – UEFA Champions League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912173100 +0200" stop="20260912200000 +0200">
+    <title lang="zh">⋗ Tottenham Hotspur x Everton – Premier League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912200000 +0200" stop="20260912220000 +0200">
+    <title lang="zh">⋗ Real Madrid x Rayo Vallecano – LaLiga</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
+  <programme channel="67504" start="20260912220000 +0200" stop="20260913000000 +0200">
+    <title lang="zh">Aston Villa x Nottingham Forest – Premier League</title>
+    <desc />
+    <date>2026-09-12</date>
+  </programme>
 <channel id="464949">
     <display-name lang="US">ESPN Deportes HD</display-name>
     <icon src="" />

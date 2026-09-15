@@ -2,6 +2,9 @@
 refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" group-title="",ESPN Deportes
+https://epidd.hundxvision.co.uk/main/secure/fc3309f046f39c7307844d32720fab59d63c2098bfa995b5ac95ccfd908f5618/1789510845/setanta2ukr.m3u8
+
 #EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 

@@ -2,8 +2,8 @@
 refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" group-title="",ESPN Deportess
-https://cdn1.obstreamx.click/live/yvguwzpb54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" group-title="",ESPN Deportes
+https://livetv.sx/webplayer.php?t=ifr&c=3056638&lang=es&eid=399914570&lid=3056638&ci=15&si=1
 
 #EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b

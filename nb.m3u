@@ -3,6 +3,9 @@ refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" group-title="",ESPN Deportes
+https://epidd.hundxvision.co.uk/main/secure/003dc301a604866fc2bd5e6191987e3c4381bd754003f1da8ea73876018707ec/1789553963/espndeportes-usa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" group-title="",ESPN Deportes
 https://hls.hockey.do/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1789505876&sig=7oCLvHrzJkyblX13rE41UXraZLbQP-R1OHgWf062LfU&v=1789504076-8636
 
 #EXTINF:-1 tvg-id="7631" tvg-name="BT Sport 1 HD" group-title="",BT Sport 1 HD

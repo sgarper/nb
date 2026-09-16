@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" group-title="",ESPN Deportes
+https://epidd.hundxvision.co.uk/main/secure/003dc301a604866fc2bd5e6191987e3c4381bd754003f1da8ea73876018707ec/1789553963/espndeportes-usa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" group-title="",ESPN Deportes
+https://hls.hockey.do/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1789505876&sig=7oCLvHrzJkyblX13rE41UXraZLbQP-R1OHgWf062LfU&v=1789504076-8636
 
 #EXTINF:-1 tvg-id="67504" tvg-name="DAZN 1 PT" group-title="",DAZN 1 PT
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b

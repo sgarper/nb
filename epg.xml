@@ -600,85 +600,10 @@
     <display-name lang="Russian Federation">M+ Liga de Campeones [ES]</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" />
   </channel>
-  <programme channel="406568" start="20261004001000 +0200" stop="20261004004000 +0200">
-    <title lang="zh">Magazine Champions League (T26/27): Episodio 4</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004004000 +0200" stop="20261004023000 +0200">
-    <title lang="zh">UEFA Champions League (T26/27): Oporto – Manchester City</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004023000 +0200" stop="20261004043000 +0200">
+  <programme channel="406568" start="20261005000000 +0200" stop="20261005003000 +0200">
     <title lang="zh">Liga Argentina. Torneo Clausura (T2026): Independiente – Instituto</title>
     <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004043000 +0200" stop="20261004060000 +0200">
-    <title lang="zh">EUROpa League (T26/27): Omonia Nicosia – Celta</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004060000 +0200" stop="20261004063000 +0200">
-    <title lang="zh">Magazine Liga Argentina. Torneo Clausura (T2026): Episodio 10</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004063000 +0200" stop="20261004083000 +0200">
-    <title lang="zh">UEFA Youth League (T26/27): Liverpool – At. Madrid</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004083000 +0200" stop="20261004103000 +0200">
-    <title lang="zh">UEFA Youth League (T26/27): Real Madrid – Inter</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004103000 +0200" stop="20261004122000 +0200">
-    <title lang="zh">UEFA Champions League (T26/27): Stuttgart – Viking</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004122000 +0200" stop="20261004125000 +0200">
-    <title lang="zh">Magazine Champions League (T26/27): Episodio 3</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004125000 +0200" stop="20261004144000 +0200">
-    <title lang="zh">UEFA Champions League (T26/27): Sporting Portugal – Galatasaray</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004144000 +0200" stop="20261004163000 +0200">
-    <title lang="zh">UEFA Champions League (T26/27): Fenerbahçe – Roma</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004163000 +0200" stop="20261004182000 +0200">
-    <title lang="zh">UEFA Champions League (T26/27): PSV Eindhoven – Shakhtar</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004182000 +0200" stop="20261004201000 +0200">
-    <title lang="zh">UEFA Champions League (T26/27): Lille OS – Betis</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004201000 +0200" stop="20261004220000 +0200">
-    <title lang="zh">UEFA Champions League (T26/27): Borussia Dortmund – Villarreal</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004220000 +0200" stop="20261004222000 +0200">
-    <title lang="zh">Especiales UEFA Champions League (T24/25): Película oficial EUROpa League</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406568" start="20261004222000 +0200" stop="20261005000000 +0200">
-    <title lang="zh">Partido Amistoso Selecciones Sudamericanas (T2026): Bolivia – Paraguay</title>
-    <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
   <programme channel="406568" start="20261005003000 +0200" stop="20261005010000 +0200">
     <title lang="zh">Magazine Champions League (T26/27): Episodio 3</title>
@@ -690,13 +615,28 @@
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="406568" start="20261005012000 +0200" stop="20261005031000 +0200">
+  <programme channel="406568" start="20261005012000 +0200" stop="20261005020000 +0200">
     <title lang="zh">UEFA Champions League (T26/27): PSG – S. Bratislava</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="406568" start="20261005031000 +0200" stop="20261005050000 +0200">
+  <programme channel="406568" start="20261005020000 +0200" stop="20261005023000 +0200">
+    <title lang="zh">Especiales UEFA Champions League (T24/25): Película oficial EUROpa League</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005023000 +0200" stop="20261005031000 +0200">
+    <title lang="zh">EUROpa League (T26/27): Real Sociedad – Bournemouth</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005031000 +0200" stop="20261005043000 +0200">
     <title lang="zh">UEFA Champions League (T26/27): Manchester Utd. – Sabah</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005043000 +0200" stop="20261005050000 +0200">
+    <title lang="zh">Liga Argentina. Torneo Clausura (T2026): Independiente – Instituto</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
@@ -705,8 +645,38 @@
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="406568" start="20261005053000 +0200" stop="20261006000000 +0200">
+  <programme channel="406568" start="20261005053000 +0200" stop="20261005063000 +0200">
     <title lang="zh">Magazine Liga Argentina. Torneo Clausura (T2026): Episodio 10</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005063000 +0200" stop="20261005083000 +0200">
+    <title lang="zh">UEFA Youth League (T26/27): Barcelona – Feyenord</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005083000 +0200" stop="20261005093000 +0200">
+    <title lang="zh">Universo Valdano (T10): Lamine Yamal</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005093000 +0200" stop="20261005113000 +0200">
+    <title lang="zh">Partido Amistoso (T2026): Colombia – Paraguay</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005113000 +0200" stop="20261005133000 +0200">
+    <title lang="zh">Partido Amistoso (T2026): Argentina- Bolivia</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005133000 +0200" stop="20261005153000 +0200">
+    <title lang="zh">Liga Argentina. Torneo Clausura (T2026): Talleres – Belgrano</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406568" start="20261005153000 +0200" stop="20261006000000 +0200">
+    <title lang="zh">Liga Argentina. Torneo Clausura (T2026): Independiente – Instituto</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
@@ -2416,148 +2386,63 @@
     <display-name lang="Russian Federation">M+ LALIGA [ES]</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216021810335582_61.png" />
   </channel>
-  <programme channel="406566" start="20261004000000 +0200" stop="20261004014500 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): CA Osasuna – Rayo Vallecano</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004014500 +0200" stop="20261004015700 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): RCD Espanyol de Barcelona – Elche CF</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004015700 +0200" stop="20261004020900 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): CA Osasuna – Rayo Vallecano</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004020900 +0200" stop="20261004022100 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Athletic Club – Deportivo Alavés</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004022100 +0200" stop="20261004023300 +0200">
+  <programme channel="406566" start="20261005000400 +0200" stop="20261005001600 +0200">
     <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): RC Celta – R. Racing Club</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261004023300 +0200" stop="20261004024500 +0200">
+  <programme channel="406566" start="20261005001600 +0200" stop="20261005002900 +0200">
     <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Sevilla FC – FC Barcelona</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261004024500 +0200" stop="20261004025700 +0200">
+  <programme channel="406566" start="20261005002900 +0200" stop="20261005004100 +0200">
     <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Getafe CF – Málaga CF</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261004025700 +0200" stop="20261004030900 +0200">
+  <programme channel="406566" start="20261005004100 +0200" stop="20261005005300 +0200">
     <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Atlético de Madrid – Real Madrid</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261004030900 +0200" stop="20261004032100 +0200">
+  <programme channel="406566" start="20261005005300 +0200" stop="20261005010500 +0200">
     <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): RC Deportivo – Real Betis</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261004032100 +0200" stop="20261004033300 +0200">
+  <programme channel="406566" start="20261005010500 +0200" stop="20261005011700 +0200">
     <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Villarreal CF – Levante UD</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261004033300 +0200" stop="20261004035000 +0200">
+  <programme channel="406566" start="20261005011700 +0200" stop="20261005013200 +0200">
     <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Valencia CF – Real Sociedad</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261004035000 +0200" stop="20261004054000 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): RC Celta – R. Racing Club</title>
+  <programme channel="406566" start="20261005013200 +0200" stop="20261005014000 +0200">
+    <title lang="zh">42 Legados (T1): Azul Celeste</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261004054000 +0200" stop="20261004060000 +0200">
-    <title lang="zh">El fútbol según Raúl (T2): Valencia CF, aquellos maravillosos años</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004060000 +0200" stop="20261004061000 +0200">
-    <title lang="zh">42 Legados (T1): Nuestro Norte: Racing</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004061000 +0200" stop="20261004080000 +0200">
-    <title lang="zh">Copa del Rey Mapfre (T25/26): Barcelona – At. Madrid</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004080000 +0200" stop="20261004094800 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): Celta – Athletic</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004094800 +0200" stop="20261004110500 +0200">
-    <title lang="zh">El fútbol según Raúl (T2): Ese Cádiz, oé</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004110500 +0200" stop="20261004130000 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): Osasuna – Getafe</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004130000 +0200" stop="20261004132500 +0200">
-    <title lang="zh">Informe Robinson (T1): El Liverpool de Fernando Torres</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004132500 +0200" stop="20261004151500 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): Real Madrid – Málaga</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004151500 +0200" stop="20261004161500 +0200">
-    <title lang="zh">Universo Valdano (T4): Mikel Oyarzabal</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004161500 +0200" stop="20261004180600 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): R. Sociedad – Espanyol</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004180600 +0200" stop="20261004190000 +0200">
-    <title lang="zh">Universo Valdano (T7): Brahim</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004190000 +0200" stop="20261004205500 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): Sevilla – At. Madrid</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004205500 +0200" stop="20261004224500 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): Real Madrid – Málaga</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004224500 +0200" stop="20261004234600 +0200">
-    <title lang="zh">Momentazos de LaLiga (T19/20): Los 15 nombres de la historia de La Liga</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261004234600 +0200" stop="20261005000000 +0200">
-    <title lang="zh">Copa del Rey Mapfre (T25/26): Athletic – Real Sociedad</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406566" start="20261005014000 +0200" stop="20261005014900 +0200">
+  <programme channel="406566" start="20261005014000 +0200" stop="20261005014100 +0200">
     <title lang="zh">42 Legados (T1): Nuestro Norte: Racing</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261005014900 +0200" stop="20261005034000 +0200">
+  <programme channel="406566" start="20261005014100 +0200" stop="20261005014900 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): Valencia CF – Real Sociedad</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005014900 +0200" stop="20261005033200 +0200">
     <title lang="zh">Copa del Rey Mapfre (T25/26): Real Sociedad – Athletic</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005033200 +0200" stop="20261005034000 +0200">
+    <title lang="zh">Copa del Rey Mapfre (T25/26): At. Madrid – Real Sociedad</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
@@ -2566,8 +2451,73 @@
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="406566" start="20261005041000 +0200" stop="20261006000000 +0200">
+  <programme channel="406566" start="20261005041000 +0200" stop="20261005065100 +0200">
     <title lang="zh">LALIGA EA SPORTS (T26/27): Sevilla – At. Madrid</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005065100 +0200" stop="20261005080000 +0200">
+    <title lang="zh">El fútbol según Raúl (T1): EuroSevilla, dolor y gloria</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005080000 +0200" stop="20261005083000 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): CR Flamengo – Orlando City</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005083000 +0200" stop="20261005090100 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): CA River Plate – CA Boca Juniors</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005090100 +0200" stop="20261005093200 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Atlético de Madrid – FC Barcelona</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005093200 +0200" stop="20261005100000 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Real Betis – Real Madrid</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005100000 +0200" stop="20261005105500 +0200">
+    <title lang="zh">Informe Plus+. Unai Emery. Pasión y método</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005105500 +0200" stop="20261005112500 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Evento 1</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005112500 +0200" stop="20261005115500 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Evento 2</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005115500 +0200" stop="20261005124500 +0200">
+    <title lang="zh">Los Otros (T5): 13 Puntos</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005124500 +0200" stop="20261005131500 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Tercer y Cuarto Puesto</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005131500 +0200" stop="20261005141500 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Final</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005141500 +0200" stop="20261005153500 +0200">
+    <title lang="zh">El fútbol según Raúl (T1): El fútbol sin balón</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406566" start="20261005153500 +0200" stop="20261006000000 +0200">
+    <title lang="zh">Copa del Rey Mapfre (T25/26): At. Madrid – Barcelona</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
@@ -2575,148 +2525,18 @@
     <display-name lang="Russian Federation">DAZN LALIGA [ES]</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216022423418697_92.png" />
   </channel>
-  <programme channel="406588" start="20261004000000 +0200" stop="20261004001500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Albacete BP – SD Eibar</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004001500 +0200" stop="20261004003000 +0200">
+  <programme channel="406588" start="20261005001500 +0200" stop="20261005003000 +0200">
     <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): UD Almería – Burgos</title>
     <desc />
-    <date>2026-10-04</date>
+    <date>2026-10-05</date>
   </programme>
-  <programme channel="406588" start="20261004003000 +0200" stop="20261004004500 +0200">
+  <programme channel="406588" start="20261005003000 +0200" stop="20261005004500 +0200">
     <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Cádiz CF – CD Leganés</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004004500 +0200" stop="20261004010000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): CE Sabadell – FC Andorra</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004010000 +0200" stop="20261004050000 +0200">
-    <title lang="zh">DAZN LaLiga</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004050000 +0200" stop="20261004090000 +0200">
-    <title lang="zh">DAZN LaLiga</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004090000 +0200" stop="20261004120000 +0200">
-    <title lang="zh">DAZN LaLiga</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004120000 +0200" stop="20261004133000 +0200">
-    <title lang="zh">La Dazoneta (T2): Episodio 4</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004133000 +0200" stop="20261004134500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): AD Ceuta FC – Real Sociedad B</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004134500 +0200" stop="20261004140000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Granada CF – FC Andorra</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004140000 +0200" stop="20261004141500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Celta Fortuna – CE Sabadell</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004141500 +0200" stop="20261004143000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): CD Tenerife – Cádiz CF</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004143000 +0200" stop="20261004144500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Girona – Albacete BP</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004144500 +0200" stop="20261004150000 +0200">
-    <title lang="zh">Resúmenes DAZN LaLiga EA Sports (T26/27): Osasuna – Rayo</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004150000 +0200" stop="20261004161500 +0200">
-    <title lang="zh">El Post de DAZN (T26/27): Programa 3</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004161500 +0200" stop="20261004164500 +0200">
-    <title lang="zh">Bordando la segunda estrella</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004164500 +0200" stop="20261004170000 +0200">
-    <title lang="zh">Resúmenes DAZN LaLiga EA Sports (T26/27): Sevilla – Barcelona</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004170000 +0200" stop="20261004183000 +0200">
-    <title lang="zh">La Dazoneta (T2): Programa 5</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004183000 +0200" stop="20261004184500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Real Valladolid CF – Córdoba CF</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004184500 +0200" stop="20261004200000 +0200">
-    <title lang="zh">El Post de DAZN (T26/27): Programa 4</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004200000 +0200" stop="20261004201500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): RCD Mallorca – UD Almería</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004201500 +0200" stop="20261004203000 +0200">
-    <title lang="zh">Especiales LaLiga fin de temporada (T24/25): El sentido: Laliga Genuine</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004203000 +0200" stop="20261004210000 +0200">
-    <title lang="zh">LALIGA VS (24/25) (T2): Jesús Gallego, Alicia Espinosa y José Luis Guzmán</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004210000 +0200" stop="20261004223000 +0200">
-    <title lang="zh">La Dazoneta (T2): Episodio 6</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004223000 +0200" stop="20261004224500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Burgos CF – CD Eldense</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004224500 +0200" stop="20261004230000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): SD Eibar – UD Las Palmas</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261004230000 +0200" stop="20261005000000 +0200">
-    <title lang="zh">El Arquitecto. Del mito al desafío</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="406588" start="20261005001500 +0200" stop="20261005004500 +0200">
-    <title lang="zh">The Making of Mourinho (T1): La Familia</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
   <programme channel="406588" start="20261005004500 +0200" stop="20261005010000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Real Oviedo – Real Sporting</title>
+    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Girona FC – RCD Mallorca</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
@@ -2725,8 +2545,53 @@
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="406588" start="20261005050000 +0200" stop="20261006000000 +0200">
+  <programme channel="406588" start="20261005050000 +0200" stop="20261005090000 +0200">
     <title lang="zh">DAZN LaLiga</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005090000 +0200" stop="20261005120000 +0200">
+    <title lang="zh">DAZN LaLiga</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005120000 +0200" stop="20261005124500 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Semifinales</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005124500 +0200" stop="20261005133000 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Semifinales</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005133000 +0200" stop="20261005141500 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Tercer y Cuarto Puesto</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005141500 +0200" stop="20261005150000 +0200">
+    <title lang="zh">LaLiga FC Futures Torneo Internacional Orlando (T2026): Final</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005150000 +0200" stop="20261005161500 +0200">
+    <title lang="zh">Trending (T26/27): Programa 6</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005161500 +0200" stop="20261005163000 +0200">
+    <title lang="zh">Luis de la Fuente y la Copa visitan DAZN</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005163000 +0200" stop="20261005164500 +0200">
+    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Albacete BP – SD Eibar</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="406588" start="20261005164500 +0200" stop="20261006000000 +0200">
+    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): UD Almería – Burgos</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
@@ -2734,72 +2599,22 @@
     <display-name lang="Russian Federation">LaLiga TV Hypermotion [ES]</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/04/26/20260426023926814027_73.png" />
   </channel>
-  <programme channel="540072" start="20261004010000 +0200" stop="20261004050000 +0200">
-    <title lang="zh">LALIGA TV HYPERMOTION</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004050000 +0200" stop="20261004080000 +0200">
-    <title lang="zh">LALIGA TV HYPERMOTION</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004080000 +0200" stop="20261004100000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): RC Celta B – CE Sabadell</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004100000 +0200" stop="20261004120000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): Ceuta FC – Real Sociedad B</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004120000 +0200" stop="20261004140000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): Granada CF – FC Andorra</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004140000 +0200" stop="20261004161500 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): Real Valladolid CF – Córdoba CF</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004161500 +0200" stop="20261004183000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): RCD Mallorca – UD Almería</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004183000 +0200" stop="20261004203000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): SD Eibar – UD Las Palmas</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004203000 +0200" stop="20261004210000 +0200">
-    <title lang="zh">Previa LaLiga HyperMotion (T26/27): Oviedo – Sporting</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004210000 +0200" stop="20261004230000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): Real Oviedo – Real Sporting</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004230000 +0200" stop="20261004233000 +0200">
-    <title lang="zh">Post LaLiga HyperMotion (T26/27): Oviedo – Sporting</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="540072" start="20261004233000 +0200" stop="20261005000000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): Burgos – CD Eldense</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
   <programme channel="540072" start="20261005013000 +0200" stop="20261005053000 +0200">
     <title lang="zh">LALIGA TV HYPERMOTION</title>
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="540072" start="20261005053000 +0200" stop="20261006000000 +0200">
+  <programme channel="540072" start="20261005053000 +0200" stop="20261005093000 +0200">
+    <title lang="zh">LALIGA TV HYPERMOTION</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="540072" start="20261005093000 +0200" stop="20261005133000 +0200">
+    <title lang="zh">LALIGA TV HYPERMOTION</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="540072" start="20261005133000 +0200" stop="20261006000000 +0200">
     <title lang="zh">LALIGA TV HYPERMOTION</title>
     <desc />
     <date>2026-10-05</date>

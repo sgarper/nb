@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
 
 
-EXTINF:-1 tvg-id="" tvg-name="" group-title="",ruso
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",ruso
 http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
 
 

@@ -1,14 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Europa League
-http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Champions
-http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Euroliga
-http://127.0.0.1:6878/ace/getstream?id=98f7c6627892ba874bd175ef1f9e67199c7e11af
-
 #EXTINF:-1 tvg-id="5755" tvg-name="Матч! Футбол" group-title="",Матч! Футбол
 http://127.0.0.1:6878/ace/getstream?id=2bb81a951f3daa6d0cafad118c289e7640d8c935
 
@@ -23,3 +14,14 @@ http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 
 #EXTINF:-1 tvg-id="6151" tvg-name="Матч! Футбол 3" group-title="",Матч! Футбол 3
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Europa League
+http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Champions
+http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Euroliga
+http://127.0.0.1:6878/ace/getstream?id=98f7c6627892ba874bd175ef1f9e67199c7e11af
+
+

@@ -69,6 +69,8 @@ DICCIONARIO = {
     "Депортиво": "Deportivo de la Coruña",
     "Расинг": "Racing de Santander",
     "Леганес": "Leganés",
+    "Кордова": "Córdoba",
+    "Леванте": "Levante",
 
     # --- INGLATERRA (Premier League) ---
     "Манчестер Сити": "Manchester City",

@@ -33,4 +33,5 @@ http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-id="7836" tvg-name="Беларусь 5 HD" group-title="",Беларусь 5 HD
 http://127.0.0.1:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
 
-
+#EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1" group-title="",TNT Sports 1
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b

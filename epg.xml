@@ -1625,91 +1625,6 @@
     <display-name lang="Russian Federation">M+ Liga de Campeones [ES]</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" />
   </channel>
-  <programme channel="406568" start="20261016003000 +0200" stop="20261016012000 +0200">
-    <title lang="zh">Liga de Campeones Highlights (T26/27): Episodio 1</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016012000 +0200" stop="20261016022000 +0200">
-    <title lang="zh">Universo Valdano (T10): Lamine Yamal</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016022000 +0200" stop="20261016044000 +0200">
-    <title lang="zh">Copa Libertadores (T2026): Estudiantes – Flamengo</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016044000 +0200" stop="20261016050000 +0200">
-    <title lang="zh">Especiales UEFA Champions League (T24/25): Película oficial EUROpa League</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016050000 +0200" stop="20261016063000 +0200">
-    <title lang="zh">Noche de Europa League (T26/27): 15/10/2026</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016063000 +0200" stop="20261016083000 +0200">
-    <title lang="zh">EUROpa League (T26/27): Salzburgo – Milan</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016083000 +0200" stop="20261016103000 +0200">
-    <title lang="zh">EUROpa League (T26/27): Benfica – Celtic</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016103000 +0200" stop="20261016123000 +0200">
-    <title lang="zh">EUROpa League (T26/27): Olympique de Marsella – Olympiacos</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016123000 +0200" stop="20261016140000 +0200">
-    <title lang="zh">Noche de Europa League (T26/27): 15/10/2026</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016140000 +0200" stop="20261016143000 +0200">
-    <title lang="zh">Magazine Liga Argentina. Torneo Clausura (T2026): Episodio 12</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016143000 +0200" stop="20261016150000 +0200">
-    <title lang="zh">Resumen liga brasileña (T2026): Episodio 30</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016150000 +0200" stop="20261016165500 +0200">
-    <title lang="zh">Liga Saudí (T26/27): Al Ahli – Al Nassr</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016165500 +0200" stop="20261016185500 +0200">
-    <title lang="zh">Liga Saudí (T26/27): Al Riyadh – Al Hilal</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016185500 +0200" stop="20261016210000 +0200">
-    <title lang="zh">Liga Saudí (T26/27): Al Ittihad – Al Shabab</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016210000 +0200" stop="20261016213000 +0200">
-    <title lang="zh">Magazine Liga Argentina. Torneo Clausura (T2026): Episodio 12</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016213000 +0200" stop="20261016233000 +0200">
-    <title lang="zh">EUROpa League (T26/27): Union Saint-Gilloise – Real Sociedad</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406568" start="20261016233000 +0200" stop="20261017000000 +0200">
-    <title lang="zh">EUROpa League (T26/27): Celta – Juventus</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
   <programme channel="406568" start="20261017013000 +0200" stop="20261017033000 +0200">
     <title lang="zh">UEFA Conference League (T26/27): Universitatea Craiova – Getafe</title>
     <desc />
@@ -1799,6 +1714,91 @@
     <title lang="zh">Resumen liga brasileña (T2026): Episodio 30</title>
     <desc />
     <date>2026-10-17</date>
+  </programme>
+  <programme channel="406568" start="20261018002500 +0200" stop="20261018023000 +0200">
+    <title lang="zh">Brasileirao (T2026): At. Paranaense – Palmeiras</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018023000 +0200" stop="20261018043000 +0200">
+    <title lang="zh">Liga Saudí (T26/27): Al Ittihad – Al Shabab</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018043000 +0200" stop="20261018053000 +0200">
+    <title lang="zh">Liga Saudí (T26/27): Al Ahli – Al Nassr</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018053000 +0200" stop="20261018063000 +0200">
+    <title lang="zh">Universo Valdano (T9): Andrés Iniesta</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018063000 +0200" stop="20261018083000 +0200">
+    <title lang="zh">Liga Saudí (T26/27): Al Hilal – Al Ittihad</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018083000 +0200" stop="20261018093000 +0200">
+    <title lang="zh">Universo Valdano (T9): Filipe Luís</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018093000 +0200" stop="20261018103000 +0200">
+    <title lang="zh">Universo Valdano (T10): Lamine Yamal</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018103000 +0200" stop="20261018123000 +0200">
+    <title lang="zh">Liga Saudí (T26/27): Al Kholood – Al Qadsiah</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018123000 +0200" stop="20261018143000 +0200">
+    <title lang="zh">Liga Saudí (T26/27): Al Nassr – Diriyah</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018143000 +0200" stop="20261018150000 +0200">
+    <title lang="zh">Magazine Champions League (T26/27): Episodio 5</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018150000 +0200" stop="20261018170000 +0200">
+    <title lang="zh">Liga Saudí (T26/27): Al Hilal – Al Ittihad</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018170000 +0200" stop="20261018172000 +0200">
+    <title lang="zh">Especiales UEFA Champions League (T24/25): Película oficial EUROpa League</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018172000 +0200" stop="20261018193000 +0200">
+    <title lang="zh">Premier League (T26/27): Liverpool – Manchester City</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018193000 +0200" stop="20261018213000 +0200">
+    <title lang="zh">Liga Argentina. Torneo Clausura (T2026): River Plate – Estudiantes</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018213000 +0200" stop="20261018220000 +0200">
+    <title lang="zh">Magazine Champions League (T26/27): Episodio 5</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018220000 +0200" stop="20261018222500 +0200">
+    <title lang="zh">Especiales UEFA Champions League (T24/25): Pelicula oficial EUROpa Conference League</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406568" start="20261018222500 +0200" stop="20261019000000 +0200">
+    <title lang="zh">Brasileirao (T2026): Palmeiras – Corinthians</title>
+    <desc />
+    <date>2026-10-18</date>
   </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
@@ -2830,7 +2830,7 @@
     <date>2026-10-16</date>
   </programme>
   <programme channel="5755" start="20261016205000 +0200" stop="20261016230000 +0200">
-    <title lang="zh">⋗ Fútbol. España. Deportivo de la Coruña – Леванте</title>
+    <title lang="zh">⋗ Fútbol. España. Deportivo de la Coruña – Levante</title>
     <desc />
     <date>2026-10-16</date>
   </programme>
@@ -2931,315 +2931,6 @@
   </programme>
   <programme channel="5755" start="20261018000000 +0200" stop="20261019000000 +0200">
     <title lang="zh">⋗ Смешанные единоборства. UFC. из Канады. Х. Бакли – М. Мэлотт</title>
-    <desc />
-    <date>2026-10-18</date>
-  </programme>
-<channel id="538903">
-    <display-name lang="Russian Federation">Sky Sports Action / NFL [UK]</display-name>
-    <icon src="https://epg.pw/media/images/epg/2026/04/22/20260422024647134653_33.png" />
-  </channel>
-  <programme channel="538903" start="20261016000000 +0200" stop="20261016010000 +0200">
-    <title lang="zh">Chris Simms Unbuttoned</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016010000 +0200" stop="20261016061500 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016061500 +0200" stop="20261016063000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016063000 +0200" stop="20261016064500 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016064500 +0200" stop="20261016070000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016070000 +0200" stop="20261016080000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016080000 +0200" stop="20261016090000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016090000 +0200" stop="20261016100000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016100000 +0200" stop="20261016110000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016110000 +0200" stop="20261016111500 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016111500 +0200" stop="20261016113000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016113000 +0200" stop="20261016114500 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016114500 +0200" stop="20261016120000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016120000 +0200" stop="20261016130000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016130000 +0200" stop="20261016134500 +0200">
-    <title lang="zh">NFL GameDay</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016134500 +0200" stop="20261016140000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016140000 +0200" stop="20261016160000 +0200">
-    <title lang="zh">Good Morning Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016160000 +0200" stop="20261016164500 +0200">
-    <title lang="zh">NFL GameDay</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016164500 +0200" stop="20261016170000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016170000 +0200" stop="20261016180000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016180000 +0200" stop="20261016190000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016190000 +0200" stop="20261016210000 +0200">
-    <title lang="zh">Pro Football Talk</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016210000 +0200" stop="20261016230000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261016230000 +0200" stop="20261017000000 +0200">
-    <title lang="zh">NFL Fantasy</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="538903" start="20261017000000 +0200" stop="20261017001500 +0200">
-    <title lang="zh">49 Hours</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017001500 +0200" stop="20261017010000 +0200">
-    <title lang="zh">NFL GameDay</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017010000 +0200" stop="20261017020000 +0200">
-    <title lang="zh">The Insiders</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017020000 +0200" stop="20261017030000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017030000 +0200" stop="20261017040000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017040000 +0200" stop="20261017050000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017050000 +0200" stop="20261017060000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017060000 +0200" stop="20261017070000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017070000 +0200" stop="20261017080000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017080000 +0200" stop="20261017090000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017090000 +0200" stop="20261017100000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017100000 +0200" stop="20261017110000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017110000 +0200" stop="20261017111500 +0200">
-    <title lang="zh">49 Hours</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017111500 +0200" stop="20261017113000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017113000 +0200" stop="20261017114500 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017114500 +0200" stop="20261017120000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017120000 +0200" stop="20261017121500 +0200">
-    <title lang="zh">49 Hours</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017121500 +0200" stop="20261017123000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017123000 +0200" stop="20261017131500 +0200">
-    <title lang="zh">NFL GameDay</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017131500 +0200" stop="20261017133000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017133000 +0200" stop="20261017134500 +0200">
-    <title lang="zh">49 Hours</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017134500 +0200" stop="20261017140000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017140000 +0200" stop="20261017150000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017150000 +0200" stop="20261017160000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017160000 +0200" stop="20261017161500 +0200">
-    <title lang="zh">49 Hours</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017161500 +0200" stop="20261017163000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017163000 +0200" stop="20261017164500 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017164500 +0200" stop="20261017170000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017170000 +0200" stop="20261017180000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017180000 +0200" stop="20261017190000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017190000 +0200" stop="20261017200000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017200000 +0200" stop="20261017210000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017210000 +0200" stop="20261017214500 +0200">
-    <title lang="zh">NFL GameDay</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017214500 +0200" stop="20261017220000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017220000 +0200" stop="20261017230000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261017230000 +0200" stop="20261018000000 +0200">
-    <title lang="zh">NFL Football</title>
-    <desc />
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="538903" start="20261018000000 +0200" stop="20261019000000 +0200">
-    <title lang="zh">NFL GameDay</title>
     <desc />
     <date>2026-10-18</date>
   </programme>
@@ -4351,226 +4042,6 @@
     <display-name lang="Russian Federation">M+ LALIGA [ES]</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216021810335582_61.png" />
   </channel>
-  <programme channel="406566" start="20261016003500 +0200" stop="20261016013000 +0200">
-    <title lang="zh">Soy Leyenda (T1): Jesús Navas</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016013000 +0200" stop="20261016033000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): UD Almería – CD Leganés</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016033000 +0200" stop="20261016034200 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Málaga CF – RCD Espanyol de Barcelona</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016034200 +0200" stop="20261016035400 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Rayo Vallecano – Athletic Club</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016035400 +0200" stop="20261016040600 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Deportivo Alavés – Atlético de Madrid</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016040600 +0200" stop="20261016041800 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): FC Barcelona – Getafe CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016041800 +0200" stop="20261016043000 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Madrid – Villarreal CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016043000 +0200" stop="20261016044200 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Elche CF – RC Celta</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016044200 +0200" stop="20261016045400 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Sociedad – RC Deportivo</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016045400 +0200" stop="20261016050600 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Betis – CA Osasuna</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016050600 +0200" stop="20261016051800 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): R. Racing Club – Valencia CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016051800 +0200" stop="20261016053500 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Levante UD – Sevilla FC</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016053500 +0200" stop="20261016073500 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): CD Tenerife – Girona FC</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016073500 +0200" stop="20261016080000 +0200">
-    <title lang="zh">Informe Robinson (T2): Johan Cruyff. Una charla con Michael Robinson</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016080000 +0200" stop="20261016095000 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): Real Betis – CA Osasuna</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016095000 +0200" stop="20261016102000 +0200">
-    <title lang="zh">90 años de historias (T2019): Diego Rodríguez</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016102000 +0200" stop="20261016103200 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Málaga CF – RCD Espanyol de Barcelona</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016103200 +0200" stop="20261016104400 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Rayo Vallecano – Athletic Club</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016104400 +0200" stop="20261016105600 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Deportivo Alavés – Atlético de Madrid</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016105600 +0200" stop="20261016110800 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): FC Barcelona – Getafe CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016110800 +0200" stop="20261016112000 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Madrid – Villarreal CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016112000 +0200" stop="20261016113200 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Elche CF – RC Celta</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016113200 +0200" stop="20261016114400 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Sociedad – RC Deportivo</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016114400 +0200" stop="20261016115600 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Betis – CA Osasuna</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016115600 +0200" stop="20261016120800 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): R. Racing Club – Valencia CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016120800 +0200" stop="20261016122500 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Levante UD – Sevilla FC</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016122500 +0200" stop="20261016142000 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): Real Madrid – Villarreal CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016142000 +0200" stop="20261016153500 +0200">
-    <title lang="zh">El fútbol según Raúl (T2): Astures por Europa</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016153500 +0200" stop="20261016154700 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Málaga CF – RCD Espanyol de Barcelona</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016154700 +0200" stop="20261016155900 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Rayo Vallecano – Athletic Club</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016155900 +0200" stop="20261016161100 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Deportivo Alavés – Atlético de Madrid</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016161100 +0200" stop="20261016162300 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): FC Barcelona – Getafe CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016162300 +0200" stop="20261016163500 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Madrid – Villarreal CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016163500 +0200" stop="20261016164700 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Elche CF – RC Celta</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016164700 +0200" stop="20261016165900 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Sociedad – RC Deportivo</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016165900 +0200" stop="20261016171100 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Real Betis – CA Osasuna</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016171100 +0200" stop="20261016172300 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): R. Racing Club – Valencia CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016172300 +0200" stop="20261016174000 +0200">
-    <title lang="zh">Resúmenes LALIGA EA Sports (T26/27): Levante UD – Sevilla FC</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016174000 +0200" stop="20261016193000 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): Elche CF – RC Celta</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016193000 +0200" stop="20261016203000 +0200">
-    <title lang="zh">Universo Valdano (T4): Manuel Pellegrini</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016203000 +0200" stop="20261016205400 +0200">
-    <title lang="zh">La Casa del Fútbol Previa (T26/27): RC Deportivo – Levante UD</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016205400 +0200" stop="20261016230000 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): RC Deportivo – Levante UD</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016230000 +0200" stop="20261016233000 +0200">
-    <title lang="zh">La Casa del Fútbol Post (T26/27): RC Deportivo – Levante UD</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406566" start="20261016233000 +0200" stop="20261017000000 +0200">
-    <title lang="zh">Universo Valdano (T10): Lamine Yamal</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
   <programme channel="406566" start="20261017003500 +0200" stop="20261017023000 +0200">
     <title lang="zh">LALIGA EA SPORTS (T26/27): Deportivo Alavés – Atlético de Madrid</title>
     <desc />
@@ -4656,105 +4127,120 @@
     <desc />
     <date>2026-10-17</date>
   </programme>
+  <programme channel="406566" start="20261018001000 +0200" stop="20261018011000 +0200">
+    <title lang="zh">Informe Plus+. Cucu…Cucurella</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018011000 +0200" stop="20261018030000 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): RC Deportivo – Levante UD</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018030000 +0200" stop="20261018032400 +0200">
+    <title lang="zh">El fútbol según Raúl (T1): El fútbol sin balón</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018032400 +0200" stop="20261018042000 +0200">
+    <title lang="zh">Copa del Rey Mapfre (T25/26): At. Madrid – Real Sociedad</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018042000 +0200" stop="20261018064300 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): Valencia CF – Athletic Club</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018064300 +0200" stop="20261018073600 +0200">
+    <title lang="zh">Universo Valdano (T5): José Luis Gayà</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018073600 +0200" stop="20261018080000 +0200">
+    <title lang="zh">90 años de historias (T2019): Abel Resino</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018080000 +0200" stop="20261018100100 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): Deportivo Alavés – Atlético de Madrid</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018100100 +0200" stop="20261018111600 +0200">
+    <title lang="zh">DeportePlus (T26/27): 10/10/2026</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018111600 +0200" stop="20261018130300 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): Real Madrid – Villarreal CF</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018130300 +0200" stop="20261018133000 +0200">
+    <title lang="zh">90 años de historias (T2019): Abel Resino</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018133000 +0200" stop="20261018135000 +0200">
+    <title lang="zh">La Casa del Fútbol Previa (T26/27): Elche CF – RC Celta</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018135000 +0200" stop="20261018160000 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): Elche CF – RC Celta</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018160000 +0200" stop="20261018163200 +0200">
+    <title lang="zh">La Casa del Fútbol Post (T26/27): Elche CF – RC Celta</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018163200 +0200" stop="20261018172700 +0200">
+    <title lang="zh">Soy Leyenda (T1): Michael Laudrup</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018172700 +0200" stop="20261018180000 +0200">
+    <title lang="zh">90 años de historias (T2019): Miquel Soler</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018180000 +0200" stop="20261018182000 +0200">
+    <title lang="zh">La Casa del Fútbol Previa (T26/27): Real Betis – CA Osasuna</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018182000 +0200" stop="20261018203000 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): Real Betis – CA Osasuna</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018203000 +0200" stop="20261018210500 +0200">
+    <title lang="zh">La Casa del Fútbol Post (T26/27): Real Betis – CA Osasuna</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018210500 +0200" stop="20261018220500 +0200">
+    <title lang="zh">Informe Plus+. Piterman: ¿qué pasó?</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018220500 +0200" stop="20261018230000 +0200">
+    <title lang="zh">Universo Valdano (T2): Gabriel Batistuta</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406566" start="20261018230000 +0200" stop="20261019000000 +0200">
+    <title lang="zh">DeportePlus con Juanma Castaño (T26/27): 11/10/2026</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
 <channel id="406588">
     <display-name lang="Russian Federation">DAZN LALIGA [ES]</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/16/20241216022423418697_92.png" />
   </channel>
-  <programme channel="406588" start="20261016003000 +0200" stop="20261016004500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): CD Eldense – Córdoba CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016004500 +0200" stop="20261016010000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): RC Celta B – Real Sociedad B</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016010000 +0200" stop="20261016050000 +0200">
-    <title lang="zh">DAZN LaLiga</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016050000 +0200" stop="20261016090000 +0200">
-    <title lang="zh">DAZN LaLiga</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016090000 +0200" stop="20261016120000 +0200">
-    <title lang="zh">DAZN LaLiga</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016120000 +0200" stop="20261016140000 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): FC Barcelona – Getafe CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016140000 +0200" stop="20261016141500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): RCD Mallorca – UD Las Palmas</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016141500 +0200" stop="20261016143000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): CD Tenerife – Girona FC</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016143000 +0200" stop="20261016144500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): FC Andorra – CD Castellón</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016144500 +0200" stop="20261016150000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Real Oviedo – SD Eibar</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016150000 +0200" stop="20261016163000 +0200">
-    <title lang="zh">Trending (T26/27): Programa 15</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016163000 +0200" stop="20261016180000 +0200">
-    <title lang="zh">La Dazoneta (T2): Programa 9</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016180000 +0200" stop="20261016181500 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): CD Eldense – Córdoba CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016181500 +0200" stop="20261016183000 +0200">
-    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): RC Celta B – Real Sociedad B</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016183000 +0200" stop="20261016203000 +0200">
-    <title lang="zh">LALIGA EA SPORTS (T26/27): R. Racing Club – Valencia CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016203000 +0200" stop="20261016204500 +0200">
-    <title lang="zh">Premier Corner by Guiness 0,0: Álvaro Arbeloa, de formar talento en Valdebebas a competir en la Prem</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016204500 +0200" stop="20261016210000 +0200">
-    <title lang="zh">Luis de la Fuente y la Copa visitan DAZN</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016210000 +0200" stop="20261016223000 +0200">
-    <title lang="zh">Trending (T26/27): Programa 15</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="406588" start="20261016223000 +0200" stop="20261017000000 +0200">
-    <title lang="zh">El Post de DAZN (T26/27): Programa 5</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
   <programme channel="406588" start="20261017000000 +0200" stop="20261017003000 +0200">
     <title lang="zh">Premier Corner by Guiness 0,0: Pepe Reina</title>
     <desc />
@@ -4855,55 +4341,105 @@
     <desc />
     <date>2026-10-17</date>
   </programme>
+  <programme channel="406588" start="20261018001500 +0200" stop="20261018003000 +0200">
+    <title lang="zh">Resúmenes DAZN LaLiga EA Sports (T26/27): Valencia – Athletic</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018003000 +0200" stop="20261018004500 +0200">
+    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): UD Las Palmas – CD Castellón</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018004500 +0200" stop="20261018010000 +0200">
+    <title lang="zh">Premier Corner by Guiness 0,0: Álvaro Arbeloa, de formar talento en Valdebebas a competir en la Prem</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018010000 +0200" stop="20261018050000 +0200">
+    <title lang="zh">DAZN LaLiga</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018050000 +0200" stop="20261018090000 +0200">
+    <title lang="zh">DAZN LaLiga</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018090000 +0200" stop="20261018120000 +0200">
+    <title lang="zh">DAZN LaLiga</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018120000 +0200" stop="20261018121500 +0200">
+    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): Ceuta FC – CE Sabadell</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018121500 +0200" stop="20261018123000 +0200">
+    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): CD Eldense – Córdoba CF</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018123000 +0200" stop="20261018124500 +0200">
+    <title lang="zh">Resúmenes LALIGA HyperMotion (T26/27): RC Celta B – Real Sociedad B</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018124500 +0200" stop="20261018130000 +0200">
+    <title lang="zh">Resúmenes DAZN LaLiga EA Sports (T26/27): Alavés – Atlético de Madrid</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018130000 +0200" stop="20261018131500 +0200">
+    <title lang="zh">Resúmenes DAZN LaLiga EA Sports (T26/27): Real Madrid – Villarreal</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018131500 +0200" stop="20261018141500 +0200">
+    <title lang="zh">El último duelo</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018141500 +0200" stop="20261018160000 +0200">
+    <title lang="zh">La Dazoneta (T2): Programa 8</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018160000 +0200" stop="20261018184500 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): Real Sociedad – RC Deportivo</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018184500 +0200" stop="20261018201500 +0200">
+    <title lang="zh">Trending (T26/27): Programa 10</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018201500 +0200" stop="20261018203000 +0200">
+    <title lang="zh">Resúmenes DAZN LaLiga EA Sports (T26/27): Elche – Celta</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018203000 +0200" stop="20261018204500 +0200">
+    <title lang="zh">Premier Corner by Guiness 0,0: Álvaro Arbeloa, de formar talento en Valdebebas a competir en la Prem</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018204500 +0200" stop="20261018230000 +0200">
+    <title lang="zh">LALIGA EA SPORTS (T26/27): R. Racing Club – Valencia CF</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="406588" start="20261018230000 +0200" stop="20261019000000 +0200">
+    <title lang="zh">El Post de DAZN (T26/27): Programa 5</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
 <channel id="540072">
     <display-name lang="Russian Federation">LaLiga TV Hypermotion [ES]</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/04/26/20260426023926814027_73.png" />
   </channel>
-  <programme channel="540072" start="20261016000000 +0200" stop="20261016040000 +0200">
-    <title lang="zh">LALIGA TV HYPERMOTION</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="540072" start="20261016040000 +0200" stop="20261016080000 +0200">
-    <title lang="zh">LALIGA TV HYPERMOTION</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="540072" start="20261016080000 +0200" stop="20261016120000 +0200">
-    <title lang="zh">LALIGA TV HYPERMOTION</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="540072" start="20261016120000 +0200" stop="20261016160000 +0200">
-    <title lang="zh">LALIGA TV HYPERMOTION</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="540072" start="20261016160000 +0200" stop="20261016200000 +0200">
-    <title lang="zh">LALIGA TV HYPERMOTION</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="540072" start="20261016200000 +0200" stop="20261016203000 +0200">
-    <title lang="zh">Inside – El gran derbi</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="540072" start="20261016203000 +0200" stop="20261016223000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): CD Leganés – Córdoba CF</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="540072" start="20261016223000 +0200" stop="20261016230000 +0200">
-    <title lang="zh">LALIGA VS (24/25) (T2): Jesús Gallego, Alicia Espinosa y José Luis Guzmán</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="540072" start="20261016230000 +0200" stop="20261017000000 +0200">
-    <title lang="zh">LALIGA HYPERMOTION (T26/27): CD Tenerife – Girona FC</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
   <programme channel="540072" start="20261017010000 +0200" stop="20261017050000 +0200">
     <title lang="zh">LALIGA TV HYPERMOTION</title>
     <desc />
@@ -4968,6 +4504,76 @@
     <title lang="zh">LALIGA HYPERMOTION (T26/27): SD Eibar – RCD Mallorca</title>
     <desc />
     <date>2026-10-17</date>
+  </programme>
+  <programme channel="540072" start="20261018013000 +0200" stop="20261018050000 +0200">
+    <title lang="zh">LALIGA TV HYPERMOTION</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018050000 +0200" stop="20261018053000 +0200">
+    <title lang="zh">LALIGA TV HYPERMOTION</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018053000 +0200" stop="20261018073000 +0200">
+    <title lang="zh">LALIGA TV HYPERMOTION</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018073000 +0200" stop="20261018093000 +0200">
+    <title lang="zh">LALIGA HYPERMOTION (T26/27): Ceuta FC – CE Sabadell</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018093000 +0200" stop="20261018113000 +0200">
+    <title lang="zh">LALIGA HYPERMOTION (T26/27): RC Celta B – Real Sociedad B</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018113000 +0200" stop="20261018133000 +0200">
+    <title lang="zh">LALIGA HYPERMOTION (T26/27): CD Eldense – Córdoba CF</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018133000 +0200" stop="20261018140000 +0200">
+    <title lang="zh">Inside – El gran derbi</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018140000 +0200" stop="20261018161500 +0200">
+    <title lang="zh">LALIGA HYPERMOTION (T26/27): FC Andorra – CD Castellón</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018161500 +0200" stop="20261018183000 +0200">
+    <title lang="zh">LALIGA HYPERMOTION (T26/27): UD Almería – CD Leganés</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018183000 +0200" stop="20261018203000 +0200">
+    <title lang="zh">LALIGA HYPERMOTION (T26/27): RCD Mallorca – UD Las Palmas</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018203000 +0200" stop="20261018210000 +0200">
+    <title lang="zh">Previa LaLiga HyperMotion (T26/27): Cádiz – Sporting</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018210000 +0200" stop="20261018230000 +0200">
+    <title lang="zh">LALIGA HYPERMOTION (T26/27): Cádiz CF – Real Sporting</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018230000 +0200" stop="20261018233000 +0200">
+    <title lang="zh">Post LaLiga HyperMotion (T26/27): Cádiz – Sporting</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="540072" start="20261018233000 +0200" stop="20261019000000 +0200">
+    <title lang="zh">LALIGA HYPERMOTION (T26/27): RCD Mallorca – UD Las Palmas</title>
+    <desc />
+    <date>2026-10-18</date>
   </programme>
 <channel id="464949">
     <display-name lang="US">ESPN Deportes HD</display-name>
@@ -6370,185 +5976,6 @@
     <title lang="zh">World of FreeSports</title>
     <desc>A look at the world of extreme performances in action and outdoor sports.</desc>
     <date>2026-10-18</date>
-  </programme>
-<channel id="219104">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 2 HD</display-name>
-    <icon src="" />
-  </channel>
-  <programme channel="219104" start="20261016010000 +0200" stop="20261016040000 +0200">
-    <title lang="zh">Live NHL Ice Hockey</title>
-    <desc>Florida Panthers v Vancouver Canucks (Face-off 12.00am). Coverage of the inter-conference match from Amerant Bank Arena.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016040000 +0200" stop="20261016043000 +0200">
-    <title lang="zh">NHL: This is Hockey</title>
-    <desc>A look at the growth of ice hockey in Colombia.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016043000 +0200" stop="20261016050000 +0200">
-    <title lang="zh">NHL: This is Hockey</title>
-    <desc>A look at the growth of ice hockey in Mexico.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016050000 +0200" stop="20261016060000 +0200">
-    <title lang="zh">NHL Specials</title>
-    <desc>A look at the top players in the NHL from 20-11.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016060000 +0200" stop="20261016070000 +0200">
-    <title lang="zh">NHL Specials</title>
-    <desc>A look at the top players in the NHL from 10-1.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016070000 +0200" stop="20261016080000 +0200">
-    <title lang="zh">MotorSport</title>
-    <desc />
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016080000 +0200" stop="20261016083000 +0200">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues from around the globe.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016083000 +0200" stop="20261016104500 +0200">
-    <title lang="zh">Live Men's Rugby League World Cup</title>
-    <desc>Samoa v France (kick-off 7.45am). Coverage of the pool match at CommBank Stadium in Sydney.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016104500 +0200" stop="20261016130000 +0200">
-    <title lang="zh">Live Women's Rugby League World Cup</title>
-    <desc>Australia v Samoa (Kick-off 10.05am). Coverage of the Pool A match at CommBank Stadium in Sydney.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016130000 +0200" stop="20261016133000 +0200">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues from around the globe.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016133000 +0200" stop="20261016140000 +0200">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues from around the globe.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016140000 +0200" stop="20261016160000 +0200">
-    <title lang="zh">Men's Rugby League World Cup</title>
-    <desc>Samoa v France.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016160000 +0200" stop="20261016180000 +0200">
-    <title lang="zh">Women's Rugby League World Cup</title>
-    <desc>Australia v Samoa.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016180000 +0200" stop="20261016183000 +0200">
-    <title lang="zh">Champions Cup Preview Show</title>
-    <desc>A look ahead to upcoming fixtures in Europe's premier club competition.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016183000 +0200" stop="20261016184500 +0200">
-    <title lang="zh">LaLiga Match Highlights</title>
-    <desc>Racing Santander v Valencia.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016184500 +0200" stop="20261016204500 +0200">
-    <title lang="zh">EPCR Challenge Cup</title>
-    <desc>Montpellier v Ulster in the 2025/26 final.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016204500 +0200" stop="20261016231500 +0200">
-    <title lang="zh">Live EPCR Challenge Cup</title>
-    <desc>Edinburgh Rugby v RC Toulon (Kick-off 8.00pm). Coverage of the Pool Three match at Hive Stadium.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016231500 +0200" stop="20261016233000 +0200">
-    <title lang="zh">LaLiga Match Highlights</title>
-    <desc>Levante v Sevilla.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261016233000 +0200" stop="20261017000000 +0200">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues from around the globe.</desc>
-    <date>2026-10-16</date>
-  </programme>
-  <programme channel="219104" start="20261017000000 +0200" stop="20261017015000 +0200">
-    <title lang="zh">LaLiga</title>
-    <desc>Deportivo La Coruna v Levante.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017015000 +0200" stop="20261017034500 +0200">
-    <title lang="zh">Women's Rugby League World Cup</title>
-    <desc>Australia v Samoa.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017034500 +0200" stop="20261017061500 +0200">
-    <title lang="zh">Live Women's Rugby League World Cup</title>
-    <desc>Papua New Guinea v France (Kick-off 3.15am). Coverage of the Pool B match at Santos National Football Stadium in Port Moresby.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017061500 +0200" stop="20261017070000 +0200">
-    <title lang="zh">Live Men's Rugby League World Cup</title>
-    <desc>Papua New Guinea v Lebanon (Kick-off 5.25am). Coverage of the pool match at Santos National Football Stadium in Port Moresby.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017070000 +0200" stop="20261017083000 +0200">
-    <title lang="zh">Live Men's Rugby League World Cup</title>
-    <desc>Papua New Guinea v Lebanon (Kick-off 5.25am). Coverage of the pool match at Santos National Football Stadium in Port Moresby.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017083000 +0200" stop="20261017090000 +0200">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues from around the globe.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017090000 +0200" stop="20261017093000 +0200">
-    <title lang="zh">Champions Cup Preview Show</title>
-    <desc>A look ahead to upcoming fixtures in Europe's premier club competition.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017093000 +0200" stop="20261017113000 +0200">
-    <title lang="zh">NHL Ice Hockey</title>
-    <desc>Colorado Avalanche v Pittsburgh Penguins.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017113000 +0200" stop="20261017132500 +0200">
-    <title lang="zh">Champions Cup</title>
-    <desc>Gloucester Rugby v Union Bordeaux Bègles.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017132500 +0200" stop="20261017135500 +0200">
-    <title lang="zh">Champions Cup Preview Show</title>
-    <desc>A look ahead to upcoming fixtures in Europe's premier club competition.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017135500 +0200" stop="20261017160500 +0200">
-    <title lang="zh">Live Champions Cup</title>
-    <desc>Bulls v Stade Francais Paris (Kick-off 1.00pm). Coverage of the Pool Four match at Loftus Versfeld Stadium.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017160500 +0200" stop="20261017182500 +0200">
-    <title lang="zh">Live Champions Cup</title>
-    <desc>ASM Clermont Auvergne v Leinster Rugby (Kick-off 3.15pm). Coverage of the Pool One match at Stade-Marcel Michelin.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017182500 +0200" stop="20261017203000 +0200">
-    <title lang="zh">Live LaLiga</title>
-    <desc>Real Betis v Barcelona (Kick-off 5.30pm). Coverage of the Spanish top-flight match at Estadio La Cartuja.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017203000 +0200" stop="20261017204500 +0200">
-    <title lang="zh">LaLiga Match Highlights</title>
-    <desc>Real Betis v Osasuna.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017204500 +0200" stop="20261017233000 +0200">
-    <title lang="zh">Live Champions Cup</title>
-    <desc>Bath Rugby v Montpellier Hérault Rugby (Kick-off 8.00pm). Coverage of the Pool four match at The Recreation Ground.</desc>
-    <date>2026-10-17</date>
-  </programme>
-  <programme channel="219104" start="20261017233000 +0200" stop="20261018000000 +0200">
-    <title lang="zh">URC in 60</title>
-    <desc>Action from the third round of United Rugby Championship fixtures.</desc>
-    <date>2026-10-17</date>
   </programme>
 <channel id="406806">
     <display-name lang="Russian Federation">Ziggo Sport 1 [NL]</display-name>

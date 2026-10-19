@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
 
-acestream://8dc603264e8df30fa1dec9a313e606f46582ef25
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Pimple TV
+http://127.0.0.1:6878/ace/getstream?id=8dc603264e8df30fa1dec9a313e606f46582ef25
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="",Pimple TV
 http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc

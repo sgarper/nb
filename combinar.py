@@ -5,9 +5,10 @@ import gzip
 # Diccionario ampliado de traducción / sustitución rápida
 DICCIONARIO = {
     # --- TÉRMINOS Y COMPETICIONES (Ruso -> Español) ---
-    "Футбол": "Fútbol",
+    "Футбол": " ",
     "Кубок России": "Copa de Rusia",
     "Бильярд": "Billar",
+    "Ла Лига": " ",
     "Лига Чемпионов": "Liga de Campeones",
     "Лига Европы": "Liga Europa",
     "Лига Конференций": "Liga Conferencia",
@@ -23,11 +24,11 @@ DICCIONARIO = {
     "1/4 финала": "Cuartos de final",
     "1/2 финала": "Semifinales",
     "Финал": "Final",
-    "Испания": "España",
-    "Италия": "Italia",
-    "Англия": "Inglaterra",
-    "Германия": "Alemania",
-    "Франция": "Francia",
+    "Испания": " ",
+    "Италия": " ",
+    "Англия": " ",
+    "Германия": " ",
+    "Франция": " ",
 
     # --- TÉRMINOS Y COMPETICIONES (Polaco -> Español) ---
     "Piłka nożna": "Fútbol",

@@ -1,5 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sgarper/nb/refs/heads/main/epg.xml"
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Canal Polaco
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",M+ La liga
+https://a80.azplay55.me/hls/streama270573/index.m3u8?cst=6664fbc8b20a04d6bc910473cb797bb7
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="",Pimple TV
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
